@@ -1,0 +1,907 @@
+code;Bahnhof_Haltestelle;Bezugsjahr;Kanton;Eigner;DTV;DWV;DNWV;Bemerkung;Bemerkungen;Note;Bemerkungen;Geoposition;lod
+AD;Aadorf;2018;TG;SBB;1700;2000;1000.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4881181565,8.90330135169;http://lod.opentransportdata.swiss/didok/8506013
+AA;Aarau;2018;AG;SBB;37900;44800;22700.0;Ohne AVA.;Sans AVA.;Senza AVA.;Without AVA.;47.3913595142,8.0512737187;http://lod.opentransportdata.swiss/didok/8502113
+ABO;Aarburg-Oftringen;2018;AG;SBB;2500;3000;1300.0;;;;;47.3202684695,7.90822260672;http://lod.opentransportdata.swiss/didok/8502000
+AAT;Aathal;2018;ZH;SBB;740;800;610.0;;;;;47.3359591338,8.76562513535;http://lod.opentransportdata.swiss/didok/8503124
+ACLA;Acla da Fontauna;2018;GR;MGB;90;90;80.0;;;;;46.6971738226,8.84579085043;http://lod.opentransportdata.swiss/didok/8505180
+AE;Aesch;2018;BL;SBB;2000;2400;1300.0;;;;;47.4677446623,7.60306821023;http://lod.opentransportdata.swiss/didok/8500117
+AF;Affoltern am Albis;2018;ZH;SBB;6800;8100;4000.0;;;;;47.2760703624,8.44659499502;http://lod.opentransportdata.swiss/didok/8502224
+AIG;Aigle;2018;VD;CFF;6800;7700;5000.0;Ohne TPC.;Sans TPC.;Senza TPC.;Without TPC.;46.3168554186,6.96368321186;http://lod.opentransportdata.swiss/didok/8501400
+AI;Airolo;2018;TI;FFS;420;370;510.0;;;;;46.5275259578,8.6086197556;http://lod.opentransportdata.swiss/didok/8505201
+ALL;Allaman;2018;VD;CFF;3400;4100;1700.0;;;;;46.4757535208,6.39969707975;http://lod.opentransportdata.swiss/didok/8501035
+ALGR;Alp Grüm;2018;GR;RhB;410;440;340.0;;;;;46.3747499936,10.031140002;http://lod.opentransportdata.swiss/didok/8509357
+ADF;Alpnach Dorf;2018;OW;ZB;1200;1400;770.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.9405906483,8.27534492811;http://lod.opentransportdata.swiss/didok/8508316
+AST;Alpnachstad;2018;OW;ZB;530;500;570.0;"Ohne PB; Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.";"Sans PB; valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.";"Senza PB; valore medio 2018 compromesso dallo sbarramento di tratta.";"Without PB; average value for 2018 impacted by line closure.";46.9550415274,8.27784827202;http://lod.opentransportdata.swiss/didok/8508317
+AL;Altdorf;2018;UR;SBB;460;500;390.0;;;;;46.8757387133,8.63157541744;http://lod.opentransportdata.swiss/didok/8505113
+ALTD;Altendorf;2018;SZ;SBB;850;980;560.0;;;;;47.1939670659,8.82290584821;http://lod.opentransportdata.swiss/didok/8503211
+AT;Altmatt;2018;SZ;SOB;50;50;50.0;;;;;47.1316520243,8.69614675957;http://lod.opentransportdata.swiss/didok/8503292
+ALN;Altnau;2018;TG;SBB;370;380;330.0;;;;;47.6213679323,9.26591795856;http://lod.opentransportdata.swiss/didok/8506125
+ALT;Altstätten SG;2018;SG;SBB;2300;2700;1500.0;;;;;47.3742348071,9.55651988356;http://lod.opentransportdata.swiss/didok/8506319
+ALV;Alvaneu;2018;GR;RhB;50;50;50.0;;;;;46.6712499996,9.65072999982;http://lod.opentransportdata.swiss/didok/8509194
+AP;Ambrì-Piotta;2018;TI;FFS;120;130;110.0;;;;;46.5107637904,8.68992789884;http://lod.opentransportdata.swiss/didok/8505202
+AW;Amriswil;2018;TG;SBB;2800;3100;2100.0;;;;;47.5504497212,9.30222720093;http://lod.opentransportdata.swiss/didok/8506109
+AN;Andelfingen;2018;ZH;SBB;2300;2700;1500.0;;;;;47.5937661847,8.67800161121;http://lod.opentransportdata.swiss/didok/8506047
+AND;Andermatt;2018;UR;MGB;2700;2500;3100.0;;;;;46.6368900877,8.59328041694;http://lod.opentransportdata.swiss/didok/8505165
+ARB;Arbon;2018;TG;SBB;1700;1900;1300.0;;;;;47.510587733,9.43335858262;http://lod.opentransportdata.swiss/didok/8506308
+ARBS;Arbon Seemoosriet;2018;TG;SBB;430;470;350.0;;;;;47.5211952582,9.42501951919;http://lod.opentransportdata.swiss/didok/8516270
+ADZ;Ardez;2018;GR;RhB;240;250;240.0;;;;;46.7735400009,10.201050002;http://lod.opentransportdata.swiss/didok/8509266
+ARD;Ardon;2018;VS;CFF;530;660;250.0;;;;;46.2085941692,7.27094677176;http://lod.opentransportdata.swiss/didok/8501505
+ARN;Arnegg;2018;SG;SBB;190;210;130.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4420016473,9.25202500196;http://lod.opentransportdata.swiss/didok/8506211
+AX;Arnex;2018;VD;CFF;190;240;90.0;;;;;46.6980776528,6.51890716329;http://lod.opentransportdata.swiss/didok/8501107
+AROS;Arosa;2018;GR;RhB;1500;1200;2100.0;;;;;46.7832899967,9.67932999786;http://lod.opentransportdata.swiss/didok/8509157
+GD;Arth-Goldau;2018;SZ;SBB;14200;14400;13800.0;Ohne RB.;Sans RB.;Senza RB.;Without RB.;47.0490448834,8.54944630067;http://lod.opentransportdata.swiss/didok/8505004
+AUSG;Au SG;2018;SG;SBB;350;400;240.0;;;;;47.4361158204,9.64125910752;http://lod.opentransportdata.swiss/didok/8506316
+AU;Au ZH;2018;ZH;SBB;1000;1200;690.0;;;;;47.2468179444,8.64372590903;http://lod.opentransportdata.swiss/didok/8503205
+AUV;Auvernier;2018;NE;CFF;450;500;330.0;;;;;46.9796416688,6.87770804418;http://lod.opentransportdata.swiss/didok/8504219
+AV;Avenches;2018;VD;CFF;700;820;420.0;;;;;46.8846015977,7.04092532366;http://lod.opentransportdata.swiss/didok/8504126
+BAA;Baar;2018;ZG;SBB;8900;10700;5000.0;;;;;47.1953640376,8.52327153739;http://lod.opentransportdata.swiss/didok/8502206
+BAAL;Baar Lindenpark;2018;ZG;SBB;1400;1700;560.0;;;;;47.1831366945,8.51705846014;http://lod.opentransportdata.swiss/didok/8515993
+BAAN;Baar Neufeld;2018;ZG;SBB;860;1200;150.0;;;;;47.1884929513,8.51778078343;http://lod.opentransportdata.swiss/didok/8515992
+BAE;Bäch;2018;SZ;SBB;520;570;420.0;;;;;47.2009816419,8.72717426861;http://lod.opentransportdata.swiss/didok/8503208
+BRAG;Bad Ragaz;2018;SG;SBB;2700;3000;2100.0;;;;;47.0103094781,9.50522497811;http://lod.opentransportdata.swiss/didok/8509004
+ZZ;Bad Zurzach;2018;AG;SBB;1300;1600;880.0;;;;;47.588313394,8.29558779478;http://lod.opentransportdata.swiss/didok/8503409
+BD;Baden;2018;AG;SBB;32100;37600;19900.0;;;;;47.4764242846,8.30770947404;http://lod.opentransportdata.swiss/didok/8503504
+BLG;Baldegg;2018;LU;SBB;240;260;190.0;;;;;47.1856889592,8.28023150834;http://lod.opentransportdata.swiss/didok/8502025
+BLGK;Baldegg Kloster;2018;LU;SBB;440;580;120.0;;;;;47.1806160297,8.28059754295;http://lod.opentransportdata.swiss/didok/8516353
+BAL;Balerna;2018;TI;FFS;740;950;280.0;;;;;45.8467450568,9.00503560941;http://lod.opentransportdata.swiss/didok/8505306
+BLL;Ballwil;2018;LU;SBB;630;710;450.0;;;;;47.1537676553,8.31689880205;http://lod.opentransportdata.swiss/didok/8502023
+BSDH;Basel Dreispitz;2018;BS;SBB;1900;2200;1200.0;;;;;47.5374360633,7.60959592012;http://lod.opentransportdata.swiss/didok/8500136
+BS;Basel SBB;2018;BS;SBB;99800;111000;75000.0;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.;Sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.;Passengers boarding and alighting to/from abroad are only partially recorded.;47.5474120551,7.58956279016;http://lod.opentransportdata.swiss/didok/8500010
+BSSJ;Basel St. Johann;2018;BS;SBB;80;90;50.0;;;;;47.5703063213,7.57252938371;http://lod.opentransportdata.swiss/didok/8500016
+BSC;Bassecourt;2018;JU;CFF;960;1100;570.0;;;;;47.3366868768,7.24684623351;http://lod.opentransportdata.swiss/didok/8500122
+BSD;Bassersdorf;2018;ZH;SBB;4700;5300;3200.0;;;;;47.4385705616,8.6262209443;http://lod.opentransportdata.swiss/didok/8503307
+BMA;Bauma;2018;ZH;SBB;640;670;600.0;;;;;47.3688366369,8.87823304223;http://lod.opentransportdata.swiss/didok/8503134
+BAV;Bavois;2018;VD;CFF;180;220;110.0;;;;;46.6876799104,6.55933485236;http://lod.opentransportdata.swiss/didok/8501113
+BAZ;Bazenheid;2018;SG;SBB;1000;1200;630.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4101265373,9.06905980245;http://lod.opentransportdata.swiss/didok/8506205
+BW;Beinwil am See;2018;AG;SBB;940;1000;760.0;;;;;47.2672198589,8.20223554454;http://lod.opentransportdata.swiss/didok/8502034
+BF;Belfaux CFF;2018;FR;CFF;410;520;160.0;;;;;46.8169246102,7.10623013611;http://lod.opentransportdata.swiss/didok/8504139
+BELL;Bellach;2018;SO;SBB;650;770;380.0;;;;;47.2088787817,7.50782539624;http://lod.opentransportdata.swiss/didok/8500205
+BEL;Bellinzona;2018;TI;FFS;16000;16900;14000.0;;;;;46.1954317922,9.02951851227;http://lod.opentransportdata.swiss/didok/8505213
+BNK;Benken;2018;SG;SBB;300;340;200.0;;;;;47.2044581464,9.00865422185;http://lod.opentransportdata.swiss/didok/8503118
+BNZ;Benzenschwil;2018;AG;SBB;190;220;110.0;;;;;47.2468515044,8.36561689491;http://lod.opentransportdata.swiss/didok/8502216
+BERG;Berg;2018;TG;THURBO;330;380;230.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5822500042,9.17452773887;http://lod.opentransportdata.swiss/didok/8506194
+BEBR;Bergün/Bravuogn;2018;GR;RhB;860;770;1100.0;;;;;46.6310699956,9.7467499985;http://lod.opentransportdata.swiss/didok/8509197
+BER;Berlingen;2018;TG;SBB;260;270;240.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.673213785,9.02202296306;http://lod.opentransportdata.swiss/didok/8506135
+BN;Bern;2018;BE;SBB;184000;206400;134100.0;Ohne RBS und TPF.;Sans RBS et TPF.;Senza RBS e TPF.;Without RBS and TPF.;46.9488322905,7.43913088992;http://lod.opentransportdata.swiss/didok/8507000
+BEDI;Bernina Diavolezza;2018;GR;RhB;340;340;350.0;;;;;46.4417899994,9.98229000518;http://lod.opentransportdata.swiss/didok/8519370
+BELA;Bernina Lagalb;2018;GR;RhB;50;50;50.0;;;;;46.4366099992,9.99192999586;http://lod.opentransportdata.swiss/didok/8509373
+BESU;Bernina Suot;2018;GR;RhB;50;50;50.0;;;;;46.4448499957,9.96938999623;http://lod.opentransportdata.swiss/didok/8509354
+BEMG;Betten Talstation;2018;VS;MGB;800;700;1000.0;;;;;46.3711578725,8.07651985296;http://lod.opentransportdata.swiss/didok/8501675
+BET;Bettlach;2018;SO;SBB;640;800;310.0;;;;;47.1949494147,7.42837301675;http://lod.opentransportdata.swiss/didok/8500203
+BTW;Bettwiesen;2018;TG;THURBO;200;240;120.0;;;;;47.4986213311,9.02077963331;http://lod.opentransportdata.swiss/didok/8506182
+BV;Bevaix;2018;NE;CFF;500;590;310.0;;;;;46.9296962261,6.81168026788;http://lod.opentransportdata.swiss/didok/8504206
+BEV;Bever;2018;GR;RhB;270;260;290.0;;;;;46.5499099975,9.88847;http://lod.opentransportdata.swiss/didok/8509250
+BEX;Bex;2018;VD;CFF;1800;2100;1200.0;Ohne TPC.;Sans TPC.;Senza TPC.;Without TPC.;46.2514645823,7.00066990236;http://lod.opentransportdata.swiss/didok/8501402
+BIA;Biasca;2018;TI;FFS;1600;1900;1000.0;;;;;46.3519841524,8.97417921686;http://lod.opentransportdata.swiss/didok/8505209
+BIB;Biberbrugg;2018;SZ;SOB;2600;2800;2200.0;;;;;47.1563786386,8.72271471268;http://lod.opentransportdata.swiss/didok/8503284
+BIGG;Biberegg;2018;SZ;SOB;50;50;50.0;;;;;47.0933195453,8.66914128333;http://lod.opentransportdata.swiss/didok/8503290
+BIGO;Biel (Goms);2018;VS;MGB;130;130;140.0;;;;;46.4550565111,8.21942861919;http://lod.opentransportdata.swiss/didok/8501668
+BIM;Biel Mett;2018;BE;SBB;580;700;310.0;;;;;47.1447252839,7.27248725632;http://lod.opentransportdata.swiss/didok/8504419
+BI;Biel/Bienne;2018;BE;SBB;47600;53700;33900.0;Ohne ASM.;Sans ASM.;Senza ASM.;Without ASM.;47.1328978709,7.24291060323;http://lod.opentransportdata.swiss/didok/8504300
+BIBD;Biel/Bienne Bözingenfeld/Champ;2018;BE;SBB;450;610;100.0;;;;;47.1583823022,7.29464813274;http://lod.opentransportdata.swiss/didok/8518771
+BIL;Bilten;2018;GL;SBB;80;110;50.0;Reduzierte Betriebszeiten S27;Horaires d’exploitation du S27 réduits;Orari d’esercizio ridotti della S 27.;Reduced operating times for S27;47.152192936,9.02991826857;http://lod.opentransportdata.swiss/didok/8503224
+BIR;Birmensdorf ZH;2018;ZH;SBB;4400;5000;2900.0;;;;;47.357431375,8.43755514081;http://lod.opentransportdata.swiss/didok/8502221
+BIRR;Birr;2018;AG;SBB;540;690;190.0;;;;;47.4358466961,8.21766481836;http://lod.opentransportdata.swiss/didok/8502247
+BWL;Birrwil;2018;AG;SBB;180;200;150.0;;;;;47.2878566005,8.19901733189;http://lod.opentransportdata.swiss/didok/8502033
+BZN;Bischofszell Nord;2018;TG;SBB;210;270;100.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5004152149,9.23403527651;http://lod.opentransportdata.swiss/didok/8506215
+BZS;Bischofszell Stadt;2018;TG;SBB;920;1100;600.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4921409087,9.24147856207;http://lod.opentransportdata.swiss/didok/8506213
+BITS;Bitsch;2018;VS;MGB;230;260;180.0;;;;;46.3360571686,8.01722378609;http://lod.opentransportdata.swiss/didok/8501677
+BLIZ;Blitzingen;2018;VS;MGB;120;110;130.0;;;;;46.4446648679,8.2049670155;http://lod.opentransportdata.swiss/didok/8501669
+BLU;Blumenau;2018;SG;SBB;410;500;210.0;;;;;47.2236706825,8.84240509396;http://lod.opentransportdata.swiss/didok/8503113
+BO;Bodio;2018;TI;FFS;140;160;90.0;;;;;46.3802545204,8.90656798528;http://lod.opentransportdata.swiss/didok/8505207
+BOLE;Bôle;2018;NE;CFF;350;400;230.0;;;;;46.9694229183,6.83837449666;http://lod.opentransportdata.swiss/didok/8504218
+BONA;Bonaduz;2018;GR;RhB;890;1000;540.0;;;;;46.8102900001,9.39776000565;http://lod.opentransportdata.swiss/didok/8509184
+BCT;Boncourt;2018;JU;CFF;200;240;100.0;;;;;47.4926318684,7.01655175225;http://lod.opentransportdata.swiss/didok/8500128
+BONI;Boniswil;2018;AG;SBB;300;330;250.0;;;;;47.3150387366,8.18456054926;http://lod.opentransportdata.swiss/didok/8502032
+BON;Bonstetten-Wettswil;2018;ZH;SBB;3500;4200;2000.0;;;;;47.3259013319,8.46819690043;http://lod.opentransportdata.swiss/didok/8502222
+BOSS;Bossière;2018;VD;CFF;210;260;100.0;;;;;46.5097485144,6.69932176237;http://lod.opentransportdata.swiss/didok/8504003
+BOS;Boswil-Bünzen;2018;AG;SBB;760;870;500.0;;;;;47.3051816834,8.31528358765;http://lod.opentransportdata.swiss/didok/8502214
+BOT;Bottighofen;2018;TG;SBB;250;280;180.0;;;;;47.6407072444,9.21310411429;http://lod.opentransportdata.swiss/didok/8506127
+BDR;Boudry;2018;NE;CFF;290;320;220.0;;;;;46.9594570872,6.83504762399;http://lod.opentransportdata.swiss/didok/8504208
+BOU;Bouveret;2018;VS;CFF;470;530;330.0;;;;;46.3858171589,6.8532438578;http://lod.opentransportdata.swiss/didok/8501426
+BRT;Bretonnières;2018;VD;CFF;70;80;50.0;;;;;46.7150553299,6.47473250427;http://lod.opentransportdata.swiss/didok/8501105
+BRZ;Brienz;2018;BE;ZB;1500;1500;1400.0;"Ohne BRB; Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.";"Sans BRB; valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.";"Senza BRB; valore medio 2018 compromesso dallo sbarramento di tratta.";"Without BRB; average value for 2018 impacted by line closure.";46.754843737,8.03894632985;http://lod.opentransportdata.swiss/didok/8508305
+BRZW;Brienz West;2018;BE;ZB;90;90;80.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.7573122777,8.02037664339;http://lod.opentransportdata.swiss/didok/8508329
+BRW;Brienzwiler;2018;BE;ZB;70;90;50.0;;;;;46.7454522709,8.09069606082;http://lod.opentransportdata.swiss/didok/8508306
+BR;Brig;2018;VS;SBB;16700;17000;16100.0;;;;;46.3194227058,7.9880947394;http://lod.opentransportdata.swiss/didok/8501609
+BRIT;Brittnau-Wikon;2018;LU;SBB;180;220;100.0;;;;;47.262666155,7.95704084851;http://lod.opentransportdata.swiss/didok/8502002
+BRO;Bronschhofen;2018;SG;THURBO;150;200;50.0;;;;;47.4754443792,9.03467787496;http://lod.opentransportdata.swiss/didok/8506181
+BROA;Bronschhofen AMP;2018;SG;THURBO;150;170;90.0;;;;;47.4812671329,9.03092805218;http://lod.opentransportdata.swiss/didok/8506188
+BG;Brugg AG;2018;AG;SBB;20600;24500;11700.0;;;;;47.480859835,8.20884455349;http://lod.opentransportdata.swiss/didok/8500309
+BRUE;Brünig-Hasliberg;2018;BE;ZB;540;490;670.0;;;;;46.7577625716,8.13865406129;http://lod.opentransportdata.swiss/didok/8508309
+BRN;Brunnadern-Neckertal;2018;SG;SOB;480;530;360.0;;;;;47.3378274862,9.13059538196;http://lod.opentransportdata.swiss/didok/8506294
+BRU;Brunnen;2018;SZ;SBB;2800;3000;2300.0;;;;;46.9991749131,8.61006766101;http://lod.opentransportdata.swiss/didok/8505007
+BRIO;Brusio;2018;GR;RhB;50;60;50.0;;;;;46.2593099969,10.1252599944;http://lod.opentransportdata.swiss/didok/8509366
+BUB;Bubikon;2018;ZH;SBB;5400;6300;3400.0;;;;;47.2708410132,8.82271483906;http://lod.opentransportdata.swiss/didok/8503122
+BURN;Buchrain;2018;LU;SBB;2300;2700;1400.0;;;;;47.0936499151,8.35665850186;http://lod.opentransportdata.swiss/didok/8516350
+BU;Buchs SG;2018;SG;SBB;4700;5300;3200.0;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.;Sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.;Passengers boarding and alighting to/from abroad are only partially recorded.;47.1684119794,9.47863668892;http://lod.opentransportdata.swiss/didok/8509404
+BUD;Buchs-Dällikon;2018;ZH;SBB;2700;3300;1400.0;;;;;47.4534053118,8.43560174397;http://lod.opentransportdata.swiss/didok/8503527
+BUC;Buckten;2018;BL;SBB;160;190;110.0;;;;;47.408991048,7.84780053102;http://lod.opentransportdata.swiss/didok/8500034
+BUGN;Bugnei;2018;GR;MGB;90;90;90.0;;;;;46.682347433,8.78646678543;http://lod.opentransportdata.swiss/didok/8505177
+BX;Buix;2018;JU;CFF;50;60;50.0;;;;;47.4793332562,7.02996726363;http://lod.opentransportdata.swiss/didok/8500144
+BUE;Bülach;2018;ZH;SBB;13900;16300;8500.0;;;;;47.5239499229,8.53620919891;http://lod.opentransportdata.swiss/didok/8503400
+BDF;Burgdorf;2018;BE;SBB;16300;18700;10900.0;;;;;47.0607007264,7.62169447355;http://lod.opentransportdata.swiss/didok/8508005
+BGH;Burghalden;2018;ZH;SOB;910;1100;560.0;;;;;47.2086738994,8.69271907699;http://lod.opentransportdata.swiss/didok/8503287
+BGL;Bürglen;2018;TG;SBB;680;760;490.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5490984287,9.14987658921;http://lod.opentransportdata.swiss/didok/8506106
+BURI;Burier;2018;VD;CFF;1200;1700;260.0;;;;;46.447886475,6.87712182481;http://lod.opentransportdata.swiss/didok/8501202
+BY;Bussigny;2018;VD;CFF;3500;4300;1800.0;;;;;46.5475903675,6.55182614923;http://lod.opentransportdata.swiss/didok/8501117
+BNG;Bussnang;2018;TG;THURBO;400;550;70.0;;;;;47.5560840527,9.08416306615;http://lod.opentransportdata.swiss/didok/8506190
+BUET;Bütschwil;2018;SG;SBB;1200;1400;740.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.3595912522,9.07515106362;http://lod.opentransportdata.swiss/didok/8506203
+CD;Cadenazzo;2018;TI;FFS;1600;1800;1100.0;;;;;46.1526199887,8.94169889979;http://lod.opentransportdata.swiss/didok/8505404
+CADE;Cadera;2018;GR;RhB;50;50;50.0;;;;;46.3452699976,10.0513700031;http://lod.opentransportdata.swiss/didok/8509359
+CAIO;Campascio;2018;GR;RhB;50;50;50.0;;;;;46.2446699965,10.1316900057;http://lod.opentransportdata.swiss/didok/8509367
+CAMP;Campocologno;2018;GR;RhB;50;50;50.0;;;;;46.2332200011,10.1420600057;http://lod.opentransportdata.swiss/didok/8509368
+CAP;Capolago-Riva S. Vitale;2018;TI;FFS;870;1000;520.0;Ohne MG.;Sans MG.;Senza MG.;Without MG.;45.9028372958,8.97890525715;http://lod.opentransportdata.swiss/didok/8505304
+CAST;Castione-Arbedo;2018;TI;FFS;930;1000;660.0;;;;;46.2229216531,9.04146180622;http://lod.opentransportdata.swiss/didok/8505212
+CASR;Castrisch;2018;GR;RhB;110;120;80.0;;;;;46.7784899951,9.23307999347;http://lod.opentransportdata.swiss/didok/8509170
+CDUE;Cavadürli;2018;GR;RhB;50;50;50.0;;;;;46.870400002,9.86802999532;http://lod.opentransportdata.swiss/didok/8509069
+CAVA;Cavaglia;2018;GR;RhB;180;200;130.0;;;;;46.3643199964,10.0441399973;http://lod.opentransportdata.swiss/didok/8509358
+CAZI;Cazis;2018;GR;RhB;260;310;150.0;;;;;46.7198699976,9.43293999777;http://lod.opentransportdata.swiss/didok/8509188
+CELE;Celerina;2018;GR;RhB;310;320;290.0;;;;;46.5139799962,9.85844000586;http://lod.opentransportdata.swiss/didok/8509252
+CELS;Celerina Staz;2018;GR;RhB;50;50;50.0;;;;;46.5096499997,9.86512000071;http://lod.opentransportdata.swiss/didok/8509350
+CHAM;Cham;2018;ZG;SBB;5800;6800;3600.0;;;;;47.1782438774,8.45750476373;http://lod.opentransportdata.swiss/didok/8502203
+CHAA;Cham Alpenblick;2018;ZG;SBB;1600;1800;970.0;;;;;47.182282404,8.47146327537;http://lod.opentransportdata.swiss/didok/8515995
+CHY;Chambésy;2018;GE;CFF;560;670;320.0;;;;;46.2409448551,6.1473043207;http://lod.opentransportdata.swiss/didok/8501020
+CHN;Chambrelien;2018;NE;CFF;520;610;330.0;;;;;46.9671090077,6.81225676542;http://lod.opentransportdata.swiss/didok/8504234
+CHA;Chamoson;2018;VS;CFF;230;270;140.0;;;;;46.1888363807,7.24109904693;http://lod.opentransportdata.swiss/didok/8501504
+CDM;Champ-du-Moulin;2018;NE;CFF;80;70;100.0;;;;;46.9599117563,6.77498896578;http://lod.opentransportdata.swiss/didok/8504217
+CHAR;Charrat-Fully;2018;VS;CFF;480;590;230.0;;;;;46.1268128794,7.12647659794;http://lod.opentransportdata.swiss/didok/8501501
+CHF;Châteauneuf-Conthey;2018;VS;CFF;850;1100;400.0;;;;;46.2161086897,7.30510219999;http://lod.opentransportdata.swiss/didok/8501510
+CHAT;Châtillens;2018;VD;CFF;250;290;160.0;;;;;46.5705330243,6.81548152013;http://lod.opentransportdata.swiss/didok/8504017
+CHV;Chavornay;2018;VD;CFF;2100;2500;1000.0;Ohne TRAVYS.;Sans TRAVYS.;Senza TRAVYS.;Without TRAVYS.;46.7100845294,6.56816324702;http://lod.opentransportdata.swiss/didok/8501112
+CHE;Chénens;2018;FR;CFF;220;270;110.0;;;;;46.749210789,7.00042964473;http://lod.opentransportdata.swiss/didok/8504025
+CHX;Chexbres-Village;2018;VD;CFF;380;410;320.0;;;;;46.481057236,6.77853779056;http://lod.opentransportdata.swiss/didok/8504013
+CHS;Cheyres;2018;FR;CFF;340;400;210.0;;;;;46.8169458308,6.7863937067;http://lod.opentransportdata.swiss/didok/8504131
+CHI;Chiasso;2018;TI;FFS;5200;6300;2700.0;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.;Sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.;Passengers boarding and alighting to/from abroad are only partially recorded.;45.8321680264,9.03144956231;http://lod.opentransportdata.swiss/didok/8505307
+CH;Chur;2018;GR;SBB;24300;24900;23000.0;;;;;46.8530841628,9.52893773304;http://lod.opentransportdata.swiss/didok/8509000
+CHSA;Chur Stadt;2018;GR;RhB;80;80;70.0;;;;;46.8474159833,9.5317301563;http://lod.opentransportdata.swiss/didok/8509150
+CHWE;Chur West;2018;GR;RhB;540;660;280.0;;;;;46.8499417452,9.51247868306;http://lod.opentransportdata.swiss/didok/8509050
+CHWI;Chur Wiesental;2018;GR;RhB;150;170;110.0;;;;;46.8619109146,9.5314575124;http://lod.opentransportdata.swiss/didok/8509006
+CIN;Cinuos-chel-Brail;2018;GR;RhB;80;80;70.0;;;;;46.638529998,10.0219200024;http://lod.opentransportdata.swiss/didok/8509260
+CL;Clarens;2018;VD;CFF;1900;2200;1100.0;;;;;46.442738299,6.89577993661;http://lod.opentransportdata.swiss/didok/8501203
+CBY;Collombey;2018;VS;CFF;320;380;180.0;;;;;46.2711929307,6.94875636846;http://lod.opentransportdata.swiss/didok/8501422
+CLB;Colombier;2018;NE;CFF;330;390;210.0;;;;;46.9676523895,6.84886974332;http://lod.opentransportdata.swiss/didok/8504209
+CC;Concise;2018;VD;CFF;50;60;50.0;;;;;46.8508815438,6.72315740917;http://lod.opentransportdata.swiss/didok/8504203
+COP;Coppet;2018;VD;CFF;6400;7900;3000.0;;;;;46.3173935707,6.18782738095;http://lod.opentransportdata.swiss/didok/8501023
+CN;Corcelles-Nord;2018;VD;CFF;160;190;110.0;;;;;46.8352621117,6.96029447415;http://lod.opentransportdata.swiss/didok/8504123
+CP;Corcelles-Peseux;2018;NE;CFF;590;690;370.0;;;;;46.9833509724,6.88381355417;http://lod.opentransportdata.swiss/didok/8504232
+CS;Corcelles-Sud;2018;VD;CFF;330;420;140.0;;;;;46.8288473733,6.95719217694;http://lod.opentransportdata.swiss/didok/8504135
+COG;Corgémont;2018;BE;CFF;380;470;190.0;;;;;47.193398768,7.14466145967;http://lod.opentransportdata.swiss/didok/8504305
+CORM;Cormoret;2018;BE;CFF;60;70;50.0;;;;;47.1729470993,7.05412356821;http://lod.opentransportdata.swiss/didok/8504308
+CORN;Cornaux;2018;NE;CFF;440;540;210.0;;;;;47.0385720313,7.02336566239;http://lod.opentransportdata.swiss/didok/8504223
+CORS;Corseaux-Cornalles;2018;VD;CFF;70;80;50.0;;;;;46.4704513936,6.82478080292;http://lod.opentransportdata.swiss/didok/8504040
+CO;Cortébert;2018;BE;CFF;170;200;130.0;;;;;47.1893371482,7.10730920432;http://lod.opentransportdata.swiss/didok/8504306
+COS;Cossonay-Penthalaz;2018;VD;CFF;3100;3700;1800.0;Ohne MBC.;Sans MBC.;Senza MBC.;Without MBC.;46.6060100853,6.52368916814;http://lod.opentransportdata.swiss/didok/8501115
+COT;Cottens;2018;FR;CFF;500;650;180.0;;;;;46.7512126286,7.03479432111;http://lod.opentransportdata.swiss/didok/8504026
+CCH;Courchavon;2018;JU;CFF;60;70;50.0;;;;;47.4397743973,7.05764595582;http://lod.opentransportdata.swiss/didok/8500141
+CFV;Courfaivre;2018;JU;CFF;220;250;130.0;;;;;47.3350831253,7.29116574222;http://lod.opentransportdata.swiss/didok/8500121
+CG;Courgenay;2018;JU;CFF;550;620;390.0;;;;;47.4052261765,7.12420504386;http://lod.opentransportdata.swiss/didok/8500125
+CT;Court;2018;BE;CFF;200;250;110.0;;;;;47.2406009156,7.34210987773;http://lod.opentransportdata.swiss/didok/8500104
+CTY;Courtelary;2018;BE;CFF;520;620;310.0;;;;;47.1756315433,7.06880326998;http://lod.opentransportdata.swiss/didok/8504307
+CTM;Courtemaîche;2018;JU;CFF;90;110;50.0;;;;;47.4558691837,7.05538017512;http://lod.opentransportdata.swiss/didok/8500127
+CTT;Courtételle;2018;JU;CFF;380;450;230.0;;;;;47.3428290086,7.31794276824;http://lod.opentransportdata.swiss/didok/8500120
+COUS;Cousset;2018;FR;CFF;190;230;100.0;;;;;46.8186048806,6.97749113071;http://lod.opentransportdata.swiss/didok/8504136
+CRNE;Cressier NE;2018;NE;CFF;390;450;260.0;;;;;47.0519528052,7.03953207221;http://lod.opentransportdata.swiss/didok/8504224
+CRGD;Creux-de-Genthod;2018;GE;CFF;440;540;210.0;;;;;46.2637677584,6.16131231072;http://lod.opentransportdata.swiss/didok/8501012
+CR;Croy-Romainmôtier;2018;VD;CFF;380;460;210.0;;;;;46.6967123186,6.47811626855;http://lod.opentransportdata.swiss/didok/8501106
+CGY;Cugy FR;2018;FR;CFF;370;460;160.0;;;;;46.8160282792,6.88916458987;http://lod.opentransportdata.swiss/didok/8504133
+CU;Cully;2018;VD;CFF;1600;1600;1300.0;;;;;46.4885617917,6.72715146685;http://lod.opentransportdata.swiss/didok/8501124
+DA;Dachsen;2018;ZH;SBB;820;910;630.0;;;;;47.6670904985,8.61382274063;http://lod.opentransportdata.swiss/didok/8506049
+DAG;Dagmersellen;2018;LU;SBB;980;1200;590.0;;;;;47.2175579408,7.97902592247;http://lod.opentransportdata.swiss/didok/8502004
+DAL;Dallenwil;2018;NW;ZB;620;640;590.0;;;;;46.9337806567,8.39196255118;http://lod.opentransportdata.swiss/didok/8508392
+DK;Däniken;2018;SO;SBB;800;1000;350.0;;;;;47.3563900875,7.97877134475;http://lod.opentransportdata.swiss/didok/8502111
+DAD;Davos Dorf;2018;GR;RhB;1100;1100;1200.0;;;;;46.8097200004,9.84210999784;http://lod.opentransportdata.swiss/didok/8509072
+DAF;Davos Frauenkirch;2018;GR;RhB;50;50;50.0;;;;;46.7665999969,9.79924999382;http://lod.opentransportdata.swiss/didok/8509075
+DAGL;Davos Glaris;2018;GR;RhB;100;100;100.0;;;;;46.7455699991,9.77992999436;http://lod.opentransportdata.swiss/didok/8509076
+DALT;Davos Laret;2018;GR;RhB;60;60;60.0;;;;;46.8481959364,9.87339430204;http://lod.opentransportdata.swiss/didok/8509070
+DAM;Davos Monstein;2018;GR;RhB;50;50;50.0;;;;;46.7159100021,9.76000999675;http://lod.opentransportdata.swiss/didok/8509077
+DAV;Davos Platz;2018;GR;RhB;2500;2500;2500.0;;;;;46.7914699937,9.82073000458;http://lod.opentransportdata.swiss/didok/8509073
+DAW;Davos Wolfgang;2018;GR;RhB;70;70;80.0;;;;;46.8319599956,9.85454999332;http://lod.opentransportdata.swiss/didok/8509071
+DG;Degersheim;2018;SG;SOB;1200;1400;800.0;;;;;47.3725781017,9.20011957075;http://lod.opentransportdata.swiss/didok/8506292
+DN;Deitingen;2018;SO;SBB;580;670;370.0;;;;;47.2182257977,7.61891302482;http://lod.opentransportdata.swiss/didok/8500209
+DMT;Delémont;2018;JU;CFF;6900;7900;4600.0;;;;;47.3620127001,7.3500633234;http://lod.opentransportdata.swiss/didok/8500109
+DEN;Denges-Echandens;2018;VD;CFF;350;430;180.0;;;;;46.5291270991,6.54050548188;http://lod.opentransportdata.swiss/didok/8501045
+DI;Dielsdorf;2018;ZH;SBB;2700;3200;1700.0;;;;;47.4824205055,8.45944375321;http://lod.opentransportdata.swiss/didok/8503315
+DIEN;Dieni;2018;GR;MGB;310;280;370.0;;;;;46.6699316335,8.74286499978;http://lod.opentransportdata.swiss/didok/8505174
+DIE;Diepflingen;2018;BL;SBB;140;170;90.0;;;;;47.4495605079,7.83771739368;http://lod.opentransportdata.swiss/didok/8500031
+DSB;Diesbach-Betschwanden;2018;GL;SBB;120;130;110.0;Ohne Bahnbusse.;Sans bus de ligne.;Senza autobus della ferrovia.;Without rail buses.;46.9461808069,9.02437338188;http://lod.opentransportdata.swiss/didok/8503237
+DSH;Diessenhofen;2018;TG;SBB;1000;1100;760.0;;;;;47.6854682238,8.75229939789;http://lod.opentransportdata.swiss/didok/8503428
+DTF;Dietfurt;2018;SG;SBB;240;280;150.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.3445518831,9.07832028969;http://lod.opentransportdata.swiss/didok/8506202
+DT;Dietikon;2018;ZH;SBB;20100;23700;12200.0;Ohne AVA.;Sans AVA.;Senza AVA.;Without AVA.;47.4057838066,8.40498818789;http://lod.opentransportdata.swiss/didok/8503508
+DTL;Dietlikon;2018;ZH;SBB;8300;9600;5300.0;;;;;47.420202064,8.61927640456;http://lod.opentransportdata.swiss/didok/8503306
+DIH;Dinhard;2018;ZH;SBB;220;220;220.0;;;;;47.553345148,8.75298088739;http://lod.opentransportdata.swiss/didok/8506021
+DIS;Disentis/Mustér;2018;GR;RhB;1800;1900;1600.0;;;;;46.7050794546,8.85519153356;http://lod.opentransportdata.swiss/didok/8509179
+DE;Domat/Ems;2018;GR;RhB;1300;1500;790.0;;;;;46.8331399988,9.45316000305;http://lod.opentransportdata.swiss/didok/8509181
+DOM;Domdidier;2018;FR;CFF;390;460;230.0;;;;;46.868512059,7.01138257529;http://lod.opentransportdata.swiss/didok/8504125
+DOP;Dompierre;2018;FR;CFF;80;90;60.0;;;;;46.8544027623,6.98536880348;http://lod.opentransportdata.swiss/didok/8504124
+DOR;Dornach-Arlesheim;2018;BL;SBB;4800;5600;3100.0;;;;;47.488619836,7.61111894185;http://lod.opentransportdata.swiss/didok/8500118
+DOT;Dottikon-Dintikon;2018;AG;SBB;1600;1900;730.0;;;;;47.3736465562,8.23471026607;http://lod.opentransportdata.swiss/didok/8502212
+DOE;Döttingen;2018;AG;SBB;2300;2700;1400.0;;;;;47.5752698204,8.25636467328;http://lod.opentransportdata.swiss/didok/8503501
+DUE;Dübendorf;2018;ZH;SBB;7800;9300;4600.0;;;;;47.4000803599,8.62342174423;http://lod.opentransportdata.swiss/didok/8503128
+DUG;Duggingen;2018;BL;SBB;560;650;370.0;;;;;47.4534448595,7.60346073631;http://lod.opentransportdata.swiss/didok/8500116
+DU;Dulliken;2018;SO;SBB;340;390;220.0;;;;;47.3542761372,7.94650133116;http://lod.opentransportdata.swiss/didok/8502110
+EBI;Ebikon;2018;LU;SBB;1600;1800;1000.0;;;;;47.0842627181,8.34235825617;http://lod.opentransportdata.swiss/didok/8502200
+EBLI;Ebligen;2018;BE;ZB;50;50;50.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.7526241628,7.99003698893;http://lod.opentransportdata.swiss/didok/8508304
+EK;Ebnat-Kappel;2018;SG;SOB;440;480;360.0;;;;;47.2636664107,9.12098748225;http://lod.opentransportdata.swiss/didok/8506297
+ECL;Eclépens;2018;VD;CFF;260;330;80.0;;;;;46.657190658,6.55242112332;http://lod.opentransportdata.swiss/didok/8501114
+ECU;Ecublens-Rue;2018;FR;CFF;70;90;50.0;;;;;46.6104302397,6.81105498124;http://lod.opentransportdata.swiss/didok/8504018
+EF;Effretikon;2018;ZH;SBB;17000;19700;10900.0;;;;;47.4258120599,8.68667914444;http://lod.opentransportdata.swiss/didok/8503305
+EG;Egerkingen;2018;SO;SBB;1300;1500;840.0;;;;;47.3148648359,7.79896647346;http://lod.opentransportdata.swiss/didok/8500214
+EGL;Eglisau;2018;ZH;SBB;1600;1900;1100.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.572374547,8.51655801586;http://lod.opentransportdata.swiss/didok/8503402
+EGN;Egnach;2018;TG;SBB;280;300;240.0;;;;;47.5439913038,9.3830174841;http://lod.opentransportdata.swiss/didok/8506309
+EI;Eiken;2018;AG;SBB;430;510;230.0;;;;;47.5330442737,7.98979755315;http://lod.opentransportdata.swiss/didok/8500304
+EIS;Einsiedeln;2018;SZ;SOB;3400;3600;3000.0;;;;;47.1285817189,8.74447774656;http://lod.opentransportdata.swiss/didok/8503283
+EL;Elgg;2018;ZH;SBB;1600;1800;1000.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4985290881,8.86341158621;http://lod.opentransportdata.swiss/didok/8506014
+EMB;Embrach-Rorbas;2018;ZH;SBB;1800;2100;1000.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5205902402,8.58706884873;http://lod.opentransportdata.swiss/didok/8506041
+EBR;Emmenbrücke;2018;LU;SBB;4800;5600;3200.0;;;;;47.0706014997,8.28256536801;http://lod.opentransportdata.swiss/didok/8502021
+GSAG;Emmenbrücke Gersag;2018;LU;SBB;3400;3800;2400.0;;;;;47.0783141783,8.27682007954;http://lod.opentransportdata.swiss/didok/8502028
+EMSW;Ems Werk;2018;GR;RhB;320;430;80.0;;;;;46.8286399943,9.43038999637;http://lod.opentransportdata.swiss/didok/8509182
+EBG;Engelberg;2018;OW;ZB;2200;1900;2600.0;;;;;46.81951711,8.40298012584;http://lod.opentransportdata.swiss/didok/8508399
+EDA;Ennenda;2018;GL;SBB;580;630;460.0;;;;;47.0329595432,9.07719380509;http://lod.opentransportdata.swiss/didok/8503231
+EP;Ependes;2018;VD;CFF;100;130;60.0;;;;;46.7464161111,6.60766187443;http://lod.opentransportdata.swiss/didok/8501110
+EPS;Epesses;2018;VD;CFF;160;130;210.0;;;;;46.4893287952,6.74516603412;http://lod.opentransportdata.swiss/didok/8501125
+ERL;Erlen;2018;TG;SBB;550;650;350.0;;;;;47.5514602765,9.22620198059;http://lod.opentransportdata.swiss/didok/8506107
+ERLB;Erlenbach ZH;2018;ZH;SBB;3500;4200;2000.0;;;;;47.3057919592,8.59152235725;http://lod.opentransportdata.swiss/didok/8503102
+ERM;Ermatingen;2018;TG;SBB;690;750;550.0;;;;;47.6699991679,9.08567252782;http://lod.opentransportdata.swiss/didok/8506133
+ESEE;Ermensee;2018;LU;SBB;120;140;90.0;;;;;47.2296906158,8.24231442358;http://lod.opentransportdata.swiss/didok/8502019
+ER;Erstfeld;2018;UR;SBB;2500;2300;3100.0;;;;;46.8203394089,8.65045464023;http://lod.opentransportdata.swiss/didok/8505114
+ESB;Eschenbach;2018;LU;SBB;750;850;530.0;;;;;47.1323959998,8.3227907318;http://lod.opentransportdata.swiss/didok/8502022
+EZ;Eschenz;2018;TG;SBB;260;290;190.0;;;;;47.6454120838,8.87656172053;http://lod.opentransportdata.swiss/didok/8506138
+ESL;Eschlikon;2018;TG;SBB;1200;1400;750.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.461491059,8.95853620191;http://lod.opentransportdata.swiss/didok/8506011
+ESP;Essert-Pittet;2018;VD;CFF;50;50;50.0;;;;;46.7276733207,6.58065581845;http://lod.opentransportdata.swiss/didok/8501111
+EST;Estavayer-le-Lac;2018;FR;CFF;1300;1500;760.0;;;;;46.8444988487,6.84296723341;http://lod.opentransportdata.swiss/didok/8504132
+ETOY;Etoy;2018;VD;CFF;1300;1600;470.0;;;;;46.4751727414,6.42713535556;http://lod.opentransportdata.swiss/didok/8501042
+EW;Etzwilen;2018;TG;SBB;200;220;170.0;;;;;47.6611446798,8.81861734532;http://lod.opentransportdata.swiss/didok/8506025
+EV;Evionnaz;2018;VS;CFF;300;380;120.0;;;;;46.1692543801,7.02551815271;http://lod.opentransportdata.swiss/didok/8501404
+EWMA;Ewil Maxon;2018;OW;ZB;260;350;70.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.8606877499,8.21859636876;http://lod.opentransportdata.swiss/didok/8508327
+EYHO;Eyholz;2018;VS;MGB;130;140;100.0;;;;;46.2967805669,7.91630428018;http://lod.opentransportdata.swiss/didok/8501636
+FA;Faido;2018;TI;FFS;180;190;140.0;;;;;46.4830755041,8.79071010682;http://lod.opentransportdata.swiss/didok/8505204
+FG;Faoug;2018;VD;CFF;150;170;110.0;;;;;46.908241821,7.07460138;http://lod.opentransportdata.swiss/didok/8504127
+FET;Fehraltorf;2018;ZH;SBB;3100;3700;1700.0;;;;;47.3851228052,8.75028811504;http://lod.opentransportdata.swiss/didok/8503302
+FEL;Felben-Wellhausen;2018;TG;SBB;480;560;300.0;"Angabe 2016; Angabe 2018 steht nicht zur Verfügung.";"Chiffre 2016; chiffre non disponible pour l’année 2018.";"Dato del 2016; il dato del 2018 non è disponibile.";"Value for 2016; value for 2018 not available.";47.5771021273,8.9431748232;http://lod.opentransportdata.swiss/didok/8506101
+FB;Feldbach;2018;ZH;SBB;1100;1300;730.0;;;;;47.2392035614,8.78349776635;http://lod.opentransportdata.swiss/didok/8503109
+FBG;Felsberg;2018;GR;RhB;240;270;170.0;;;;;46.8430994056,9.48128043727;http://lod.opentransportdata.swiss/didok/8509180
+FT;Feuerthalen;2018;ZH;SBB;280;310;220.0;;;;;47.6921694783,8.64596842886;http://lod.opentransportdata.swiss/didok/8503425
+FID;Fideris;2018;GR;RhB;50;50;50.0;;;;;46.9223700021,9.73376000172;http://lod.opentransportdata.swiss/didok/8509063
+FIE;Fiesch;2018;VS;MGB;1000;1000;1000.0;;;;;46.4062847691,8.1341917528;http://lod.opentransportdata.swiss/didok/8501672
+FIED;Fiesch Feriendorf;2018;VS;MGB;60;60;70.0;;;;;46.3973252152,8.13077222768;http://lod.opentransportdata.swiss/didok/8501729
+FILI;Filisur;2018;GR;RhB;1300;1300;1200.0;;;;;46.6753299968,9.68228999603;http://lod.opentransportdata.swiss/didok/8509195
+FI;Fischenthal;2018;ZH;SBB;130;150;110.0;"Angabe 2016; Angabe 2018 steht nicht zur Verfügung.";"Chiffre 2016; chiffre non disponible pour l’année 2018.";"Dato del 2016; il dato del 2018 non è disponibile.";"Value for 2016; value for 2018 not available.";47.3333026875,8.92329588574;http://lod.opentransportdata.swiss/didok/8503136
+FLA;Flawil;2018;SG;SBB;3500;4100;2200.0;;;;;47.4151893837,9.18978559141;http://lod.opentransportdata.swiss/didok/8506209
+FL;Flüelen;2018;UR;SBB;1800;1800;1900.0;;;;;46.9017301655,8.62430265309;http://lod.opentransportdata.swiss/didok/8505112
+FMS;Flums;2018;SG;SBB;550;610;400.0;;;;;47.0966166533,9.34792924789;http://lod.opentransportdata.swiss/didok/8509413
+FF;Frauenfeld;2018;TG;SBB;10400;11800;7100.0;Ohne FW.;Sans FW.;Senza FW.;Without FW.;47.5581634046,8.89655967341;http://lod.opentransportdata.swiss/didok/8506100
+FRB;Freienbach SBB;2018;SZ;SBB;490;560;330.0;;;;;47.207310708,8.75621859973;http://lod.opentransportdata.swiss/didok/8503210
+FRBS;Freienbach SOB;2018;SZ;SOB;370;440;220.0;;;;;47.2042036865,8.75939896054;http://lod.opentransportdata.swiss/didok/8503289
+FRE;Frenkendorf-Füllinsdorf;2018;BL;SBB;3700;4300;2400.0;;;;;47.5014699911,7.71911053155;http://lod.opentransportdata.swiss/didok/8500022
+FRI;Fribourg/Freiburg;2018;FR;CFF;20100;23000;13600.0;Ohne TPF.;Sans TPF.;Senza TPF.;Without TPF.;46.8031481722,7.15104688334;http://lod.opentransportdata.swiss/didok/8504100
+FCK;Frick;2018;AG;SBB;4900;5800;3000.0;;;;;47.5073485239,8.01309246283;http://lod.opentransportdata.swiss/didok/8500305
+FRIN;Frinvillier-Taubenloch;2018;BE;CFF;130;130;130.0;;;;;47.1694577966,7.25752927622;http://lod.opentransportdata.swiss/didok/8504301
+FTAN;Ftan;2018;GR;RhB;50;50;50.0;;;;;46.7876500017,10.2579899941;http://lod.opentransportdata.swiss/didok/8509267
+FUER;Fürgangen-Bellwald;2018;VS;MGB;260;230;310.0;;;;;46.4118974298,8.15231682297;http://lod.opentransportdata.swiss/didok/8501671
+FURN;Furna;2018;GR;RhB;50;50;50.0;;;;;46.9397799997,9.70895000427;http://lod.opentransportdata.swiss/didok/8509061
+GZ;Galmiz;2018;FR;SBB;140;150;100.0;;;;;46.9508706261,7.15320734383;http://lod.opentransportdata.swiss/didok/8504129
+GA;Gampel-Steg;2018;VS;SBB;530;630;310.0;;;;;46.3065154809,7.74758116307;http://lod.opentransportdata.swiss/didok/8501603
+GELF;Gelfingen;2018;LU;SBB;310;330;260.0;;;;;47.2135590388,8.26482492435;http://lod.opentransportdata.swiss/didok/8502026
+GKD;Gelterkinden;2018;BL;SBB;4900;5600;3300.0;;;;;47.4658937198,7.84766722157;http://lod.opentransportdata.swiss/didok/8500027
+GE;Genève;2018;GE;CFF;60500;70700;37700.0;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.;Sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.;Passengers boarding and alighting to/from abroad are only partially recorded.;46.2102128988,6.14245159514;http://lod.opentransportdata.swiss/didok/8501008
+GEAP;Genève-Aéroport;2018;GE;CFF;15900;16300;15100.0;;;;;46.2325385344,6.1119855726;http://lod.opentransportdata.swiss/didok/8501026
+GESE;Genève-Sécheron;2018;GE;CFF;1200;1600;220.0;;;;;46.2224403085,6.1445611504;http://lod.opentransportdata.swiss/didok/8516283
+GDBE;Genthod-Bellevue;2018;GE;CFF;1100;1400;480.0;;;;;46.2567376756,6.15396079257;http://lod.opentransportdata.swiss/didok/8501021
+GER;Gerra (Gambarogno);2018;TI;FFS;50;50;50.0;;;;;46.1220409605,8.7849697706;http://lod.opentransportdata.swiss/didok/8505410
+GES;Geschinen;2018;VS;MGB;120;120;130.0;;;;;46.4916533368,8.28210576169;http://lod.opentransportdata.swiss/didok/8501664
+GIB;Gibswil;2018;ZH;SBB;250;280;190.0;;;;;47.3137201049,8.91551055853;http://lod.opentransportdata.swiss/didok/8503137
+GSK;Gisikon-Root;2018;LU;SBB;1100;1300;760.0;;;;;47.1213276678,8.39478852665;http://lod.opentransportdata.swiss/didok/8502201
+GI;Giswil;2018;OW;ZB;960;1000;820.0;;;;;46.8365344001,8.18631769163;http://lod.opentransportdata.swiss/didok/8508312
+GIU;Giubiasco;2018;TI;FFS;6700;8100;3600.0;;;;;46.1738127315,9.00360008896;http://lod.opentransportdata.swiss/didok/8505214
+GLA;Gland;2018;VD;CFF;5500;7000;2300.0;;;;;46.4199864712,6.26913983363;http://lod.opentransportdata.swiss/didok/8501031
+GLZB;Glanzenberg;2018;ZH;SBB;3500;4200;2200.0;;;;;47.3988787251,8.4204418766;http://lod.opentransportdata.swiss/didok/8503512
+GL;Glarus;2018;GL;SBB;2500;2900;1700.0;;;;;47.0399241436,9.07156641336;http://lod.opentransportdata.swiss/didok/8503230
+GLB;Glattbrugg;2018;ZH;SBB;6300;7700;3000.0;;;;;47.4308267156,8.55885414875;http://lod.opentransportdata.swiss/didok/8503310
+GF;Glattfelden;2018;ZH;SBB;1000;1200;600.0;;;;;47.5485579811,8.52405519018;http://lod.opentransportdata.swiss/didok/8503401
+GLO;Glovelier;2018;JU;CFF;890;1000;610.0;Ohne CJ.;Sans CJ.;Senza CJ.;Without CJ.;47.3352095199,7.20931276817;http://lod.opentransportdata.swiss/didok/8500123
+GLUR;Gluringen;2018;VS;MGB;80;80;80.0;;;;;46.4627823113,8.23390671443;http://lod.opentransportdata.swiss/didok/8501667
+GOL;Goldach;2018;SG;SBB;1400;1600;1100.0;;;;;47.4737981502,9.46699692736;http://lod.opentransportdata.swiss/didok/8506305
+GDA;Gordola;2018;TI;FFS;700;780;520.0;;;;;46.1790402724,8.86577329008;http://lod.opentransportdata.swiss/didok/8505402
+GOR;Gorgier-St-Aubin;2018;NE;CFF;590;690;380.0;;;;;46.899076146,6.78102596556;http://lod.opentransportdata.swiss/didok/8504205
+GOE;Göschenen;2018;UR;SBB;1800;1600;2200.0;;;;;46.6658149394,8.58880822548;http://lod.opentransportdata.swiss/didok/8505119
+GSS;Gossau SG;2018;SG;SBB;8200;9100;6300.0;Ohne AB.;Sans AB.;Senza AB.;Without AB.;47.4118315785,9.25305069333;http://lod.opentransportdata.swiss/didok/8506210
+GRAF;Grafenort;2018;OW;ZB;80;70;100.0;;;;;46.8705971759,8.37242375689;http://lod.opentransportdata.swiss/didok/8508396
+GRA;Grandgourt;2018;JU;CFF;50;50;50.0;;;;;47.4699201469,7.04810766013;http://lod.opentransportdata.swiss/didok/8500143
+GRS;Grandson;2018;VD;CFF;710;840;430.0;;;;;46.8062833834,6.6419437403;http://lod.opentransportdata.swiss/didok/8504201
+GRV;Grandvaux;2018;VD;CFF;530;650;270.0;;;;;46.4969482405,6.72265018612;http://lod.opentransportdata.swiss/didok/8504011
+GM;Granges-Marnand;2018;VD;CFF;390;490;170.0;;;;;46.7588449243,6.89428972893;http://lod.opentransportdata.swiss/didok/8504122
+GREL;Grellingen;2018;BL;SBB;1500;1700;1100.0;;;;;47.4412948952,7.59198835479;http://lod.opentransportdata.swiss/didok/8500115
+GS;Grenchen Süd;2018;SO;SBB;5000;6000;2800.0;;;;;47.1887746887,7.39818006116;http://lod.opentransportdata.swiss/didok/8500202
+GREN;Grengiols;2018;VS;MGB;150;150;140.0;;;;;46.3752111689,8.09168220563;http://lod.opentransportdata.swiss/didok/8501674
+GRO;Grolley;2018;FR;CFF;670;830;320.0;;;;;46.8319788448,7.06605254437;http://lod.opentransportdata.swiss/didok/8504138
+GRF;Grüenfeld;2018;ZH;SOB;210;240;140.0;;;;;47.1982952633,8.68728884259;http://lod.opentransportdata.swiss/didok/8503293
+GRUS;Grüsch;2018;GR;RhB;680;760;490.0;;;;;46.9804899989,9.64578000516;http://lod.opentransportdata.swiss/didok/8509059
+GUA;Guarda;2018;GR;RhB;180;180;170.0;;;;;46.7715200011,10.1505300008;http://lod.opentransportdata.swiss/didok/8509265
+GUEB;Gübsensee;2018;AR;SOB;50;50;50.0;;;;;47.397902115,9.31679714792;http://lod.opentransportdata.swiss/didok/8506287
+GUN;Guntershausen;2018;TG;SBB;350;410;240.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4741213557,8.9170321041;http://lod.opentransportdata.swiss/didok/8506012
+GUET;Güttingen;2018;TG;SBB;320;340;270.0;;;;;47.6087529725,9.29224305111;http://lod.opentransportdata.swiss/didok/8506124
+HAE;Hägendorf;2018;SO;SBB;1500;1800;780.0;;;;;47.330267803,7.84381639645;http://lod.opentransportdata.swiss/didok/8500215
+HAEW;Häggenschwil-Winden;2018;TG;SOB;250;270;190.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5038633193,9.3587225775;http://lod.opentransportdata.swiss/didok/8506395
+HALD;Haldenstein;2018;GR;RhB;60;60;50.0;;;;;46.876959564,9.53308566007;http://lod.opentransportdata.swiss/didok/8509051
+HD;Hallwil;2018;AG;SBB;180;200;120.0;;;;;47.3286387566,8.17594945533;http://lod.opentransportdata.swiss/didok/8502031
+HPT;Hauptwil;2018;TG;SBB;210;250;140.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4768665934,9.2515915338;http://lod.opentransportdata.swiss/didok/8506212
+HED;Hedingen;2018;ZH;SBB;2100;2500;1300.0;;;;;47.2987852281,8.44596555338;http://lod.opentransportdata.swiss/didok/8502223
+HEBG;Heerbrugg;2018;SG;SBB;3800;4500;2200.0;;;;;47.4103925066,9.6272488282;http://lod.opentransportdata.swiss/didok/8506317
+HDK;Hendschiken;2018;AG;SBB;730;890;370.0;;;;;47.3894310816,8.20738869937;http://lod.opentransportdata.swiss/didok/8502211
+HGT;Henggart;2018;ZH;SBB;1300;1500;920.0;;;;;47.5642572437,8.68507523533;http://lod.opentransportdata.swiss/didok/8506046
+HEN;Henniez;2018;VD;CFF;50;60;50.0;;;;;46.7350014063,6.87010587847;http://lod.opentransportdata.swiss/didok/8504141
+HEBR;Herbriggen;2018;VS;MGB;130;120;160.0;;;;;46.1321478782,7.79163490263;http://lod.opentransportdata.swiss/didok/8501686
+HGW;Hergiswil;2018;NW;ZB;2700;3000;2000.0;;;;;46.9826179284,8.31018280227;http://lod.opentransportdata.swiss/didok/8508318
+MATT;Hergiswil Matt;2018;NW;ZB;50;80;50.0;;;;;46.9940761364,8.31259294563;http://lod.opentransportdata.swiss/didok/8508320
+HE;Herisau;2018;AR;SOB;4800;5600;3100.0;Ohne AB.;Sans AB.;Senza AB.;Without AB.;47.3901652087,9.27681223562;http://lod.opentransportdata.swiss/didok/8506290
+HERL;Herrliberg-Feldmeilen;2018;ZH;SBB;3800;4600;2200.0;;;;;47.2818266011,8.61273342225;http://lod.opentransportdata.swiss/didok/8503103
+HB;Herzogenbuchsee;2018;BE;SBB;3900;4500;2400.0;;;;;47.1880861283,7.70095826853;http://lod.opentransportdata.swiss/didok/8508008
+HET;Hettlingen;2018;ZH;SBB;660;730;490.0;;;;;47.5454414465,8.69483415306;http://lod.opentransportdata.swiss/didok/8506045
+HI;Hinwil;2018;ZH;SBB;2600;2900;1800.0;;;;;47.3000569504,8.83971989441;http://lod.opentransportdata.swiss/didok/8503130
+HIK;Hitzkirch;2018;LU;SBB;850;990;520.0;;;;;47.2226727348,8.25200102563;http://lod.opentransportdata.swiss/didok/8502027
+HO;Hochdorf;2018;LU;SBB;1700;2000;1100.0;;;;;47.1669751887,8.28869962431;http://lod.opentransportdata.swiss/didok/8502024
+HOSA;Hochdorf Schönau;2018;LU;SBB;600;680;430.0;;;;;47.1645693234,8.29873363509;http://lod.opentransportdata.swiss/didok/8502042
+HOBK;Holderbank AG;2018;AG;SBB;310;390;140.0;;;;;47.4286425297,8.16662236906;http://lod.opentransportdata.swiss/didok/8502128
+HG;Horgen;2018;ZH;SBB;8000;9500;4800.0;;;;;47.2614833746,8.59691699657;http://lod.opentransportdata.swiss/didok/8503204
+HGO;Horgen Oberdorf;2018;ZH;SBB;2300;2800;1100.0;;;;;47.2587498147,8.58981582093;http://lod.opentransportdata.swiss/didok/8502208
+HN;Horn;2018;TG;SBB;510;560;400.0;;;;;47.4931799803,9.46338788334;http://lod.opentransportdata.swiss/didok/8506307
+HW;Horw;2018;LU;ZB;2000;2400;1100.0;;;;;47.0174801569,8.306992215;http://lod.opentransportdata.swiss/didok/8508319
+HOS;Hospental;2018;UR;MGB;110;80;180.0;;;;;46.621082266,8.57096435385;http://lod.opentransportdata.swiss/didok/8505164
+HUCH;Hünenberg Chämleten;2018;ZG;SBB;250;270;210.0;;;;;47.1691594202,8.44990853795;http://lod.opentransportdata.swiss/didok/8502306
+HUZY;Hünenberg Zythus;2018;ZG;SBB;1400;1700;800.0;;;;;47.1736075673,8.45009524706;http://lod.opentransportdata.swiss/didok/8515996
+HUEW;Hüntwangen-Wil;2018;ZH;SBB;1500;1800;970.0;;;;;47.5812688989,8.51284804974;http://lod.opentransportdata.swiss/didok/8503403
+HU;Hunzenschwil;2018;AG;SBB;550;650;310.0;;;;;47.3882858862,8.12569323097;http://lod.opentransportdata.swiss/didok/8502104
+HUR;Hurden;2018;SZ;SOB;150;140;170.0;;;;;47.2141463456,8.80074572761;http://lod.opentransportdata.swiss/didok/8503299
+HM;Hüttlingen-Mettendorf;2018;TG;SBB;;;;Angabe 2018 steht nicht zur Verfügung.;Chiffre non disponible pour l’année 2018.;Il dato del 2018 non è disponibile.;Value for 2018 not available.;47.5823436361,8.97455500758;http://lod.opentransportdata.swiss/didok/8506102
+IGIS;Igis;2018;GR;RhB;420;460;310.0;;;;;46.9498299967,9.56475999486;http://lod.opentransportdata.swiss/didok/8509055
+ILZ;Ilanz;2018;GR;RhB;1900;2000;1500.0;;;;;46.7753499975,9.20743999658;http://lod.opentransportdata.swiss/didok/8509171
+IL;Illnau;2018;ZH;SBB;2100;2400;1300.0;;;;;47.4088191897,8.72272752143;http://lod.opentransportdata.swiss/didok/8503303
+IM;Immensee;2018;SZ;SBB;470;610;150.0;;;;;47.0916186591,8.46267203625;http://lod.opentransportdata.swiss/didok/8505003
+IO;Interlaken Ost;2018;BE;ZB;11500;11200;12200.0;"Ohne BOB; Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.";"Sans BOB; valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.";"Senza BOB; valore medio 2018 compromesso dallo sbarramento di tratta.";"Without BOB; average value for 2018 impacted by line closure.";46.6904999962,7.86900000435;http://lod.opentransportdata.swiss/didok/8507492
+ISL;Islikon;2018;TG;SBB;900;1000;590.0;;;;;47.5478349171,8.84619703019;http://lod.opentransportdata.swiss/didok/8506019
+IT;Itingen;2018;BL;SBB;990;1200;610.0;;;;;47.4672787178,7.78722597967;http://lod.opentransportdata.swiss/didok/8500025
+JAZ;Jenaz;2018;GR;RhB;170;190;120.0;;;;;46.9297500025,9.71831999439;http://lod.opentransportdata.swiss/didok/8509062
+JE;Jestetten;2018;XDE;SBB;1100;1200;660.0;;;;;;
+JO;Jona;2018;SG;SBB;5200;6000;3200.0;;;;;47.2309766415,8.83461805252;http://lod.opentransportdata.swiss/didok/8503120
+KAU;Kaiseraugst;2018;AG;SBB;2600;3100;1500.0;;;;;47.5384957267,7.72413554243;http://lod.opentransportdata.swiss/didok/8500300
+KAAG;Kaiserstuhl AG;2018;AG;SBB;240;260;180.0;;;;;47.5664467004,8.41916248796;http://lod.opentransportdata.swiss/didok/8503413
+KAI;Kaiserstuhl OW;2018;OW;ZB;160;150;170.0;;;;;46.8143665459,8.17552469217;http://lod.opentransportdata.swiss/didok/8508311
+KALP;Kalpetran;2018;VS;MGB;120;140;90.0;;;;;46.2140689004,7.83696109226;http://lod.opentransportdata.swiss/didok/8501684
+KAB;Kaltbrunn;2018;SG;SBB;250;290;160.0;;;;;47.2179832084,9.02243102403;http://lod.opentransportdata.swiss/didok/8503117
+KHF;Kehlhof;2018;TG;THURBO;130;140;90.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5721871908,9.16977940584;http://lod.opentransportdata.swiss/didok/8506193
+KPT;Kempraten;2018;SG;SBB;780;910;500.0;;;;;47.2383977283,8.81431096018;http://lod.opentransportdata.swiss/didok/8503112
+KN;Kempten;2018;ZH;SBB;1800;2100;1000.0;;;;;47.3320431153,8.8047206925;http://lod.opentransportdata.swiss/didok/8503300
+KE;Kemptthal;2018;ZH;SBB;630;750;370.0;;;;;47.4528388543,8.70558624821;http://lod.opentransportdata.swiss/didok/8503304
+KZ;Kerzers;2018;FR;SBB;4200;4600;3400.0;;;;;46.9750789633,7.19281016807;http://lod.opentransportdata.swiss/didok/8504400
+KWL;Kesswil;2018;TG;SBB;250;270;210.0;;;;;47.5954977796,9.31742725076;http://lod.opentransportdata.swiss/didok/8506123
+KIL;Kilchberg;2018;ZH;SBB;3100;3700;1800.0;;;;;47.3244315696,8.54801640459;http://lod.opentransportdata.swiss/didok/8503200
+KLW;Killwangen-Spreitenbach;2018;AG;SBB;4100;4900;2200.0;;;;;47.4333288584,8.3542140006;http://lod.opentransportdata.swiss/didok/8503506
+KLI;Klingnau;2018;AG;SBB;630;740;380.0;;;;;47.581998915,8.24905012849;http://lod.opentransportdata.swiss/didok/8516176
+KLO;Klosters;2018;GR;RhB;2400;2400;2300.0;;;;;46.8692100007,9.88093999484;http://lod.opentransportdata.swiss/didok/8509068
+KLOD;Klosters Dorf;2018;GR;RhB;340;340;350.0;;;;;46.8834699989,9.87533000513;http://lod.opentransportdata.swiss/didok/8509067
+KL;Kloten;2018;ZH;SBB;5000;5700;3600.0;;;;;47.4486072856,8.58380969746;http://lod.opentransportdata.swiss/didok/8503308
+KLB;Kloten Balsberg;2018;ZH;SBB;1500;1800;800.0;;;;;47.4422903702,8.57071849285;http://lod.opentransportdata.swiss/didok/8503309
+KNO;Knonau;2018;ZH;SBB;1000;1200;680.0;;;;;47.2202643455,8.46673119008;http://lod.opentransportdata.swiss/didok/8502226
+KB;Koblenz;2018;AG;SBB;2800;3300;1800.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.6003382987,8.22704969738;http://lod.opentransportdata.swiss/didok/8500329
+KBD;Koblenz Dorf;2018;AG;SBB;420;490;270.0;;;;;47.6093860847,8.24016389696;http://lod.opentransportdata.swiss/didok/8503411
+KOL;Kollbrunn;2018;ZH;SBB;1200;1400;770.0;;;;;47.4583242033,8.77401693565;http://lod.opentransportdata.swiss/didok/8506004
+KK;Kölliken;2018;AG;SBB;690;810;440.0;;;;;47.3373001864,8.02646054449;http://lod.opentransportdata.swiss/didok/8502101
+KKO;Kölliken Oberdorf;2018;AG;SBB;210;250;130.0;;;;;47.3246831994,8.01909057757;http://lod.opentransportdata.swiss/didok/8502122
+KRA;Kradolf;2018;TG;SBB;430;500;270.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5247224374,9.20157506049;http://lod.opentransportdata.swiss/didok/8506216
+KR;Kreuzlingen;2018;TG;SBB;7400;8100;5600.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.6525527665,9.16908041834;http://lod.opentransportdata.swiss/didok/8506131
+KRB;Kreuzlingen Bernrain;2018;TG;THURBO;280;340;160.0;;;;;47.6421144978,9.16320412695;http://lod.opentransportdata.swiss/didok/8506197
+KRH;Kreuzlingen Hafen;2018;TG;SBB;1600;2000;940.0;;;;;47.6491639566,9.18198226764;http://lod.opentransportdata.swiss/didok/8506128
+KRM;Kriens Mattenhof;2018;LU;ZB;1600;1900;1100.0;;;;;47.0265755425,8.30233732059;http://lod.opentransportdata.swiss/didok/8516351
+KRU;Krummenau;2018;SG;SOB;150;160;140.0;;;;;47.2488350576,9.1681546902;http://lod.opentransportdata.swiss/didok/8506298
+KUEB;Küblis;2018;GR;RhB;660;720;540.0;;;;;46.9142799979,9.77183999848;http://lod.opentransportdata.swiss/didok/8509064
+KGD;Küngoldingen;2018;AG;SBB;180;210;120.0;;;;;47.3021415068,7.94179667102;http://lod.opentransportdata.swiss/didok/8502120
+KURZ;Kurzrickenbach Seepark;2018;TG;SBB;450;520;310.0;;;;;47.6430808361,9.19635937071;http://lod.opentransportdata.swiss/didok/8506119
+KGO;Küsnacht Goldbach;2018;ZH;SBB;1700;2100;840.0;;;;;47.3268567059,8.57596418686;http://lod.opentransportdata.swiss/didok/8503141
+KUES;Küsnacht ZH;2018;ZH;SBB;5200;6200;3000.0;;;;;47.3191566275,8.58063781685;http://lod.opentransportdata.swiss/didok/8503101
+KUE;Küssnacht am Rigi;2018;SZ;SBB;2200;2400;1700.0;;;;;47.0835941552,8.43351745732;http://lod.opentransportdata.swiss/didok/8505002
+CF;La Chaux-de-Fonds;2018;NE;CFF;8400;9800;5400.0;"Ohne CJ und TRN; Ein- und Aussteigende von und aus dem Ausland sind nur zum Teil erfasst.";"Sans CJ et TRN; les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.";"Senza CJ e TRN; sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.";"Without CJ and TRN; passengers boarding and alighting from abroad are only partially recorded.";47.0983743555,6.82598272105;http://lod.opentransportdata.swiss/didok/8504314
+CVN;La Conversion;2018;VD;CFF;710;890;290.0;;;;;46.5130844975,6.67832359677;http://lod.opentransportdata.swiss/didok/8504010
+LHE;La Heutte;2018;BE;CFF;170;200;120.0;;;;;47.1894918077,7.22539578099;http://lod.opentransportdata.swiss/didok/8504303
+NV;La Neuveville;2018;BE;CFF;1400;1600;780.0;;;;;47.0628327873,7.09523241202;http://lod.opentransportdata.swiss/didok/8504226
+LP;La Plaine;2018;GE;CFF;1300;1600;690.0;;;;;46.1786653871,5.99999277974;http://lod.opentransportdata.swiss/didok/8501001
+LAPU;La Punt-Chamues-ch;2018;GR;RhB;150;150;140.0;;;;;46.5786700013,9.92332999805;http://lod.opentransportdata.swiss/didok/8509256
+LSA;La Sarraz;2018;VD;CFF;920;1100;480.0;;;;;46.6587849716,6.51736100453;http://lod.opentransportdata.swiss/didok/8501108
+TOUR;La Tour-de-Peilz;2018;VD;CFF;2100;2500;1300.0;;;;;46.4554528916,6.85953267344;http://lod.opentransportdata.swiss/didok/8501201
+LA;Lachen;2018;SZ;SBB;3100;3600;1900.0;;;;;47.1900684319,8.85271518942;http://lod.opentransportdata.swiss/didok/8503220
+LAM;Lamone-Cadempino;2018;TI;FFS;2200;2900;730.0;;;;;46.0397186151,8.9321250232;http://lod.opentransportdata.swiss/didok/8505219
+LAPR;Lancy-Pont-Rouge;2018;GE;CFF;1100;1600;220.0;;;;;46.1859452998,6.12494699563;http://lod.opentransportdata.swiss/didok/8516155
+LQ;Landquart;2018;GR;SBB;14000;13900;14300.0;;;;;46.9674404284,9.55404469208;http://lod.opentransportdata.swiss/didok/8509002
+LQRI;Landquart Ried;2018;GR;RhB;230;270;150.0;;;;;46.9571999974,9.56086999745;http://lod.opentransportdata.swiss/didok/8509056
+LDS;Landschlacht;2018;TG;SBB;250;260;210.0;;;;;47.6288913581,9.24694872402;http://lod.opentransportdata.swiss/didok/8588122
+LTH;Langenthal;2018;BE;SBB;11700;13500;7500.0;Ohne asm.;Sans ASM.;Senza ASM.;Without ASM.;47.2173028715,7.78471513555;http://lod.opentransportdata.swiss/didok/8508100
+LAWI;Langwies GR;2018;GR;RhB;160;120;250.0;;;;;46.819329999,9.70713999387;http://lod.opentransportdata.swiss/didok/8509155
+LAN;Langwiesen;2018;ZH;SBB;210;230;190.0;;;;;47.6834509702,8.66232019933;http://lod.opentransportdata.swiss/didok/8503426
+LF;Läufelfingen;2018;BL;SBB;400;470;250.0;;;;;47.3921328916,7.85623157727;http://lod.opentransportdata.swiss/didok/8500035
+LFN;Laufen;2018;BL;SBB;5700;6600;3900.0;;;;;47.4193464835,7.50263613094;http://lod.opentransportdata.swiss/didok/8500113
+LFG;Laufenburg;2018;AG;SBB;800;900;580.0;;;;;47.5597684229,8.06129613291;http://lod.opentransportdata.swiss/didok/8500322
+LS;Lausanne;2018;VD;CFF;89200;102500;59800.0;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.;Sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.;Passengers boarding and alighting to/from abroad are only partially recorded.;46.5167918355,6.6290923032;http://lod.opentransportdata.swiss/didok/8501120
+LSN;Lausen;2018;BL;SBB;1500;1700;1000.0;;;;;47.4703446725,7.75976281399;http://lod.opentransportdata.swiss/didok/8500024
+LAVI;Lavin;2018;GR;RhB;220;210;250.0;;;;;46.7695699973,10.1109700007;http://lod.opentransportdata.swiss/didok/8509264
+LAV;Lavorgo;2018;TI;FFS;90;100;70.0;;;;;46.4409017251,8.83974741803;http://lod.opentransportdata.swiss/didok/8505205
+LAX;Lax;2018;VS;MGB;210;220;200.0;;;;;46.3870087514,8.11714779692;http://lod.opentransportdata.swiss/didok/8501673
+CRET;Le Crêt-du-Locle;2018;NE;CFF;270;360;70.0;;;;;47.0772327227,6.78458129083;http://lod.opentransportdata.swiss/didok/8504315
+DAY;Le Day;2018;VD;CFF;880;960;700.0;;;;;46.717481137,6.40093748926;http://lod.opentransportdata.swiss/didok/8501104
+LD;Le Landeron;2018;NE;CFF;1000;1200;650.0;;;;;47.0566363859,7.06633533378;http://lod.opentransportdata.swiss/didok/8504225
+LOC;Le Locle;2018;NE;CFF;2300;2600;1400.0;"Ohne TRN; Ein- und Aussteigende von und aus dem Ausland sind nur zum Teil erfasst.";"Sans TRN; les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.";"Senza TRN; sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.";"Without TRN; passengers boarding and alighting from abroad are only partially recorded.";47.0578610419,6.74615327632;http://lod.opentransportdata.swiss/didok/8504316
+COL;Le Locle-Col-des-Roches;2018;NE;CFF;140;190;50.0;;;;;47.0498855563,6.72607086935;http://lod.opentransportdata.swiss/didok/8504317
+PRES;Le Prese;2018;GR;RhB;170;180;150.0;;;;;46.2921599982,10.0778500027;http://lod.opentransportdata.swiss/didok/8509364
+LECH;Léchelles;2018;FR;CFF;230;290;90.0;;;;;46.8284597333,7.01162700494;http://lod.opentransportdata.swiss/didok/8504137
+LEN;Lengnau;2018;BE;SBB;1200;1400;710.0;;;;;47.1794314233,7.36655367635;http://lod.opentransportdata.swiss/didok/8500201
+LENG;Lengwil;2018;TG;THURBO;220;260;130.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.6255977643,9.19028316548;http://lod.opentransportdata.swiss/didok/8506196
+LB;Lenzburg;2018;AG;SBB;23400;26800;15700.0;;;;;47.3911997554,8.17039288935;http://lod.opentransportdata.swiss/didok/8502119
+DEU;Les Deurres;2018;NE;CFF;460;530;300.0;;;;;46.9855247118,6.89914842881;http://lod.opentransportdata.swiss/didok/8504231
+EVOU;Les Evouettes;2018;VS;CFF;100;130;50.0;;;;;46.3628669732,6.87947022056;http://lod.opentransportdata.swiss/didok/8501425
+GEC;Les Geneveys-sur-Coffrane;2018;NE;CFF;670;780;420.0;;;;;47.0150963887,6.85321763217;http://lod.opentransportdata.swiss/didok/8504236
+HGV;Les Hauts-Geneveys;2018;NE;CFF;950;1200;490.0;;;;;47.0471765631,6.87467312928;http://lod.opentransportdata.swiss/didok/8504237
+TUI;Les Tuileries;2018;GE;CFF;530;640;280.0;;;;;46.2499463459,6.14733745893;http://lod.opentransportdata.swiss/didok/8501011
+LGB;Leuggelbach;2018;GL;SBB;50;50;50.0;Ohne Bahnbusse.;Sans bus de ligne.;Senza autobus della ferrovia.;Without rail buses.;46.9757428625,9.04694433718;http://lod.opentransportdata.swiss/didok/8503235
+LK;Leuk;2018;VS;SBB;1800;2000;1500.0;;;;;46.3115795117,7.64493650277;http://lod.opentransportdata.swiss/didok/8501601
+CURT;Li Curt;2018;GR;RhB;50;50;50.0;;;;;46.3111900015,10.0631999951;http://lod.opentransportdata.swiss/didok/8509363
+LSG;Lichtensteig;2018;SG;SOB;840;930;620.0;;;;;47.3196965864,9.08318877166;http://lod.opentransportdata.swiss/didok/8506201
+LST;Liestal;2018;BL;SBB;17500;20500;10800.0;Ohne WB.;Sans WB.;Senza WB.;Without WB.;47.4844611721,7.7313674807;http://lod.opentransportdata.swiss/didok/8500023
+LIG;Ligerz;2018;BE;SBB;480;480;460.0;;;;;47.083768862,7.13515714975;http://lod.opentransportdata.swiss/didok/8504227
+LIN;Linthal;2018;GL;SBB;300;310;280.0;Ohne Bahnbusse.;Sans bus de ligne.;Senza autobus della ferrovia.;Without rail buses.;46.9255635907,8.99779486958;http://lod.opentransportdata.swiss/didok/8503239
+LINB;Linthal Braunwaldbahn;2018;GL;SBB;340;270;510.0;Ohne Bahnbusse.;Sans bus de ligne.;Senza autobus della ferrovia.;Without rail buses.;46.9283957838,9.00249142235;http://lod.opentransportdata.swiss/didok/8503240
+LITZ;Litzirüti;2018;GR;RhB;230;190;330.0;;;;;46.7979499937,9.7032699946;http://lod.opentransportdata.swiss/didok/8509156
+LO;Locarno;2018;TI;FFS;6300;6600;5500.0;Ohne FART.;Sans FART.;Senza FART.;Without FART.;46.1724201894,8.80136089926;http://lod.opentransportdata.swiss/didok/8505400
+LON;Lonay-Préverenges;2018;VD;CFF;300;370;150.0;;;;;46.523135629,6.51954473665;http://lod.opentransportdata.swiss/didok/8501048
+LOT;Lottstetten;2018;XDE;SBB;340;400;200.0;;;;;;
+LUC;Lucens;2018;VD;CFF;880;1100;480.0;;;;;46.7077713745,6.84215023311;http://lod.opentransportdata.swiss/didok/8504121
+LU;Luchsingen-Hätzingen;2018;GL;SBB;370;400;290.0;Ohne Bahnbusse.;Sans bus de ligne.;Senza autobus della ferrovia.;Without rail buses.;46.9650706922,9.03902248684;http://lod.opentransportdata.swiss/didok/8503236
+LUCA;Lüen-Castiel;2018;GR;RhB;50;50;50.0;;;;;46.8317099956,9.61334000084;http://lod.opentransportdata.swiss/didok/8509152
+LG;Lugano;2018;TI;FFS;16300;18600;11100.0;Ohne FLP.;Sans FLP.;Senza FLP.;Without FLP.;46.0055005499,8.94699530851;http://lod.opentransportdata.swiss/didok/8505300
+LGP;Lugano-Paradiso;2018;TI;FFS;850;980;560.0;;;;;45.9893726398,8.94688975243;http://lod.opentransportdata.swiss/didok/8505301
+LUN;Lungern;2018;OW;ZB;450;450;460.0;;;;;46.7863528322,8.16356472878;http://lod.opentransportdata.swiss/didok/8508310
+LUPF;Lupfig;2018;AG;SBB;340;430;140.0;;;;;47.445184188,8.2149898571;http://lod.opentransportdata.swiss/didok/8502237
+LUT;Luterbach-Attisholz;2018;SO;SBB;850;980;560.0;;;;;47.2171491927,7.58352345957;http://lod.opentransportdata.swiss/didok/8500208
+LUET;Lütisburg;2018;SG;SBB;200;230;150.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.3838286223,9.0706871248;http://lod.opentransportdata.swiss/didok/8506204
+LTY;Lutry;2018;VD;CFF;1200;1400;980.0;;;;;46.5037867684,6.69060943656;http://lod.opentransportdata.swiss/didok/8501122
+LZ;Luzern;2018;LU;SBB;90800;97900;75300.0;;;;;47.0501778281,8.31018320694;http://lod.opentransportdata.swiss/didok/8505000
+ALD;Luzern Allmend;2018;LU;ZB;1600;1600;1600.0;;;;;47.0350681799,8.30323743966;http://lod.opentransportdata.swiss/didok/8508321
+LZVH;Luzern Verkehrshaus;2018;LU;SBB;570;610;480.0;;;;;47.0539323165,8.33729732768;http://lod.opentransportdata.swiss/didok/8517336
+LY;Lyss;2018;BE;SBB;11000;13000;6600.0;;;;;47.0763235039,7.30630154849;http://lod.opentransportdata.swiss/didok/8504414
+MADU;Madulain;2018;GR;RhB;130;130;120.0;;;;;46.5870799984,9.93834999422;http://lod.opentransportdata.swiss/didok/8509257
+MAG;Magadino-Vira;2018;TI;FFS;50;60;50.0;;;;;46.1453157178,8.85018904333;http://lod.opentransportdata.swiss/didok/8505406
+MAEG;Mägenwil;2018;AG;SBB;810;1000;340.0;;;;;47.4145081682,8.2351552224;http://lod.opentransportdata.swiss/didok/8502106
+MF;Maienfeld;2018;GR;SBB;820;930;590.0;;;;;47.0038405533,9.52921608969;http://lod.opentransportdata.swiss/didok/8509003
+MALA;Malans;2018;GR;RhB;410;450;310.0;;;;;46.977649997,9.57372000014;http://lod.opentransportdata.swiss/didok/8509057
+MB;Malleray-Bévilard;2018;BE;CFF;700;850;360.0;;;;;47.2387141919,7.2759462665;http://lod.opentransportdata.swiss/didok/8500102
+MAM;Mammern;2018;TG;SBB;250;260;220.0;;;;;47.6441602005,8.91400063279;http://lod.opentransportdata.swiss/didok/8506137
+MAEN;Männedorf;2018;ZH;SBB;4900;5800;3100.0;;;;;47.2534240277,8.69234611716;http://lod.opentransportdata.swiss/didok/8503106
+MANN;Mannenbach-Salenstein;2018;TG;SBB;200;210;180.0;;;;;47.6736494796,9.05280407791;http://lod.opentransportdata.swiss/didok/8506134
+MAR;Maroggia-Melano;2018;TI;FFS;700;820;440.0;;;;;45.9324350765,8.97393980179;http://lod.opentransportdata.swiss/didok/8505303
+MAER;Märstetten;2018;TG;SBB;;;;Angabe 2018 steht nicht zur Verfügung.;Chiffre non disponible pour l’année 2018.;Il dato del 2018 non è disponibile.;Value for 2018 not available.;47.5828205568,9.06219347751;http://lod.opentransportdata.swiss/didok/8506104
+MTL;Marthalen;2018;ZH;SBB;1600;1800;1100.0;;;;;47.6313797467,8.65606285065;http://lod.opentransportdata.swiss/didok/8506048
+MA;Martigny;2018;VS;CFF;8200;9300;5900.0;;;;;46.1058312072,7.07912412849;http://lod.opentransportdata.swiss/didok/8501500
+MAE;Märwil;2018;TG;THURBO;200;240;110.0;;;;;47.5331306908,9.0692390399;http://lod.opentransportdata.swiss/didok/8506184
+MAS;Massongex;2018;VS;CFF;280;340;150.0;;;;;46.2412066777,6.98566054246;http://lod.opentransportdata.swiss/didok/8501420
+MTR;Matran;2018;FR;CFF;150;180;100.0;;;;;46.7889383952,7.09632859383;http://lod.opentransportdata.swiss/didok/8504029
+MEG;Meggen;2018;LU;SBB;100;110;70.0;;;;;47.0501477958,8.38306144388;http://lod.opentransportdata.swiss/didok/8505001
+MEGZ;Meggen Zentrum;2018;LU;SBB;370;390;320.0;;;;;47.0451944467,8.37439305684;http://lod.opentransportdata.swiss/didok/8505018
+ML;Meilen;2018;ZH;SBB;8000;9400;5100.0;;;;;47.2698111512,8.64431191101;http://lod.opentransportdata.swiss/didok/8503104
+MR;Meiringen;2018;BE;ZB;2000;2000;1900.0;;;;;46.7273321537,8.18425121495;http://lod.opentransportdata.swiss/didok/8508308
+MDE;Melide;2018;TI;FFS;750;810;610.0;;;;;45.955713502,8.94835919512;http://lod.opentransportdata.swiss/didok/8505302
+MELN;Mellikon;2018;AG;SBB;60;60;50.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5684846801,8.35251071538;http://lod.opentransportdata.swiss/didok/8503414
+MELH;Mellingen Heitersberg;2018;AG;SBB;2700;3400;1200.0;;;;;47.4280750878,8.27636325121;http://lod.opentransportdata.swiss/didok/8516219
+MELS;Mels;2018;SG;SBB;280;320;200.0;;;;;47.0537462563,9.4177582723;http://lod.opentransportdata.swiss/didok/8509412
+MEN;Mendrisio;2018;TI;FFS;6700;8000;3800.0;;;;;45.869108608,8.97861091962;http://lod.opentransportdata.swiss/didok/8505305
+MOSM;Mendrisio S. Martino;2018;TI;FFS;620;640;590.0;;;;;45.8772201993,8.98309272048;http://lod.opentransportdata.swiss/didok/8518475
+MERL;Merlischachen;2018;SZ;SBB;190;210;160.0;;;;;47.0676599844,8.40905814694;http://lod.opentransportdata.swiss/didok/8505011
+MTM;Mettmenstetten;2018;ZH;SBB;1800;2100;1100.0;;;;;47.2440710651,8.45738217923;http://lod.opentransportdata.swiss/didok/8502225
+VM;Meyrin;2018;GE;CFF;320;420;100.0;;;;;46.2223354518,6.07690079901;http://lod.opentransportdata.swiss/didok/8501006
+MEZ;Mezzovico;2018;TI;FFS;490;640;180.0;;;;;46.0942759599,8.92859030457;http://lod.opentransportdata.swiss/didok/8505217
+MIES;Mies;2018;VD;CFF;590;740;260.0;;;;;46.2984888333,6.16765465077;http://lod.opentransportdata.swiss/didok/8501014
+MIRA;Miralago;2018;GR;RhB;60;60;60.0;;;;;46.2731199936,10.0995499935;http://lod.opentransportdata.swiss/didok/8509365
+MIT;Mitlödi;2018;GL;SBB;290;330;200.0;;;;;47.010131613,9.08121194009;http://lod.opentransportdata.swiss/didok/8503232
+MOG;Mogelsberg;2018;SG;SOB;320;340;250.0;;;;;47.3637279307,9.1420293335;http://lod.opentransportdata.swiss/didok/8506293
+MOE;Möhlin;2018;AG;SBB;3700;4400;2200.0;;;;;47.561858466,7.83386265811;http://lod.opentransportdata.swiss/didok/8500302
+MOLS;Mols;2018;SG;SBB;90;90;80.0;;;;;47.1129906778,9.27681657365;http://lod.opentransportdata.swiss/didok/8509415
+MTH;Monthey;2018;VS;CFF;1800;2300;820.0;;;;;46.2556564512,6.95522666101;http://lod.opentransportdata.swiss/didok/8501421
+MX;Montreux;2018;VD;CFF;15800;16500;14300.0;Inklusive Bahnverkehr MVR.;Trains MVR inclus.;Incl. treni MVR.;Including trains of MVR.;46.4358843411,6.91044012131;http://lod.opentransportdata.swiss/didok/8501300
+MRL;Moreillon;2018;VD;CFF;70;80;50.0;;;;;46.5083981167,6.78564542808;http://lod.opentransportdata.swiss/didok/8504007
+MOEL;Mörel;2018;VS;MGB;1000;980;1000.0;;;;;46.3562086837,8.04714048292;http://lod.opentransportdata.swiss/didok/8501676
+MOR;Morges;2018;VD;CFF;17000;20300;9700.0;Ohne MBC.;Sans MBC.;Senza MBC.;Without MBC.;46.5111011979,6.49396950064;http://lod.opentransportdata.swiss/didok/8501037
+STJ;Morges-St-Jean;2018;VD;CFF;500;620;240.0;;;;;46.5181953629,6.50804403291;http://lod.opentransportdata.swiss/didok/8501047
+MOER;Mörschwil;2018;SG;SBB;320;350;250.0;;;;;47.4747714573,9.41438354158;http://lod.opentransportdata.swiss/didok/8506304
+MOTA;Morteratsch;2018;GR;RhB;440;460;400.0;;;;;46.4507200023,9.94040999534;http://lod.opentransportdata.swiss/didok/8509353
+MO;Mosen;2018;LU;SBB;170;170;170.0;;;;;47.244292315,8.22415965131;http://lod.opentransportdata.swiss/didok/8502029
+MD;Moudon;2018;VD;CFF;1100;1400;670.0;;;;;46.668057341,6.80250793901;http://lod.opentransportdata.swiss/didok/8504120
+MOU;Moutier;2018;BE;CFF;3300;3800;2100.0;;;;;47.2806725175,7.38104429627;http://lod.opentransportdata.swiss/didok/8500105
+MUEH;Mühlau;2018;AG;SBB;200;230;130.0;;;;;47.2250199872,8.38852402748;http://lod.opentransportdata.swiss/didok/8502217
+MH;Mühlehorn;2018;GL;SBB;180;180;170.0;;;;;47.1178402446,9.1730180523;http://lod.opentransportdata.swiss/didok/8509418
+MUEL;Müllheim-Wigoltingen;2018;TG;SBB;;;;Angabe 2018 steht nicht zur Verfügung.;Chiffre non disponible pour l’année 2018.;Il dato del 2018 non è disponibile.;Value for 2018 not available.;47.5881645736,9.01552205517;http://lod.opentransportdata.swiss/didok/8506103
+MOTU;Mumpé Tujetsch;2018;GR;MGB;50;50;50.0;;;;;46.682117288,8.82655852978;http://lod.opentransportdata.swiss/didok/8505178
+MPF;Mumpf;2018;AG;SBB;1100;1300;640.0;;;;;47.5476260895,7.90962438937;http://lod.opentransportdata.swiss/didok/8500303
+MST;Münchenstein;2018;BL;SBB;590;700;330.0;;;;;47.5133973624,7.61759669026;http://lod.opentransportdata.swiss/didok/8500119
+MUET;Münster VS;2018;VS;MGB;370;400;300.0;;;;;46.4853611453,8.26653194736;http://lod.opentransportdata.swiss/didok/8501665
+MSPI;Münsterlingen Spital;2018;TG;SBB;490;590;250.0;;;;;47.6320461033,9.23611687217;http://lod.opentransportdata.swiss/didok/8506143
+MSCH;Münsterlingen-Scherzingen;2018;TG;SBB;330;350;270.0;;;;;47.6334266395,9.22701176471;http://lod.opentransportdata.swiss/didok/8506126
+LOEW;Muntelier-Löwenberg;2018;FR;SBB;330;380;220.0;;;;;46.9379741514,7.13326152062;http://lod.opentransportdata.swiss/didok/8504140
+MUO;Muolen;2018;SG;SOB;590;720;300.0;;;;;47.5176243593,9.33709297806;http://lod.opentransportdata.swiss/didok/8506396
+MG;Murg;2018;SG;SBB;290;280;290.0;;;;;47.1131748554,9.2150418825;http://lod.opentransportdata.swiss/didok/8509417
+MGT;Murgenthal;2018;AG;SBB;500;590;290.0;;;;;47.2653812699,7.8321059408;http://lod.opentransportdata.swiss/didok/8508102
+MI;Muri AG;2018;AG;SBB;2400;2900;1500.0;;;;;47.2766662302,8.33982072726;http://lod.opentransportdata.swiss/didok/8502215
+MRT;Murten/Morat;2018;FR;SBB;1900;2000;1600.0;Ohne TPF.;Sans TPF.;Senza TPF.;Without TPF.;46.9253466912,7.11528264747;http://lod.opentransportdata.swiss/didok/8504128
+MU;Muttenz;2018;BL;SBB;5300;6700;2300.0;;;;;47.5335912119,7.64789442691;http://lod.opentransportdata.swiss/didok/8500020
+NAEF;Näfels-Mollis;2018;GL;SBB;1400;1600;1000.0;;;;;47.0987192737,9.06995693502;http://lod.opentransportdata.swiss/didok/8503227
+NAEN;Nänikon-Greifensee;2018;ZH;SBB;4700;5600;2700.0;;;;;47.3693629168,8.68641362315;http://lod.opentransportdata.swiss/didok/8503126
+NAET;Nätschen;2018;UR;MGB;310;260;430.0;;;;;46.6421964132,8.60960018321;http://lod.opentransportdata.swiss/didok/8505170
+NEB;Nebikon;2018;LU;SBB;1400;1600;900.0;;;;;47.192380621,7.9774494816;http://lod.opentransportdata.swiss/didok/8502005
+NL;Nesslau-Neu St. Johann;2018;SG;SOB;690;690;670.0;;;;;47.2268262171,9.19756603921;http://lod.opentransportdata.swiss/didok/8506299
+NET;Netstal;2018;GL;SBB;840;960;590.0;;;;;47.064529022,9.05943590574;http://lod.opentransportdata.swiss/didok/8503228
+NE;Neuchâtel;2018;NE;CFF;25400;28800;17900.0;Ohne TPF.;Sans TPF.;Senza TPF.;Without TPF.;46.9967267926,6.93570169412;http://lod.opentransportdata.swiss/didok/8504221
+NESE;Neuchâtel-Serrières;2018;NE;CFF;770;930;420.0;;;;;46.9839623254,6.90336268357;http://lod.opentransportdata.swiss/didok/8504220
+NHOF;Neuenhof;2018;AG;SBB;1400;1600;1000.0;;;;;47.4506642331,8.331255318;http://lod.opentransportdata.swiss/didok/8503511
+NH;Neuhausen;2018;ZH;SBB;1500;1700;1100.0;;;;;47.683133412,8.62493454562;http://lod.opentransportdata.swiss/didok/8503423
+NHRH;Neuhausen Rheinfall;2018;SH;SBB;730;730;730.0;;;;;47.6798049262,8.61694647232;http://lod.opentransportdata.swiss/didok/8518924
+NK;Neukirch-Egnach;2018;TG;SOB;270;300;200.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5387980998,9.37585331411;http://lod.opentransportdata.swiss/didok/8506398
+NEY;Neyruz;2018;FR;CFF;490;640;180.0;;;;;46.7660490619,7.06502743208;http://lod.opentransportdata.swiss/didok/8504027
+NID;Nidfurn-Haslen;2018;GL;SBB;120;120;120.0;Ohne Bahnbusse.;Sans bus de ligne.;Senza autobus della ferrovia.;Without rail buses.;46.9858945251,9.05927645697;http://lod.opentransportdata.swiss/didok/8503234
+NOU;Nieder- und Oberurnen;2018;GL;SBB;370;430;250.0;;;;;47.1223616886,9.0623937525;http://lod.opentransportdata.swiss/didok/8503226
+NB;Niederbipp;2018;BE;SBB;640;750;410.0;Ohne asm.;Sans ASM.;Senza ASM.;Without ASM.;47.2704017343,7.69481806732;http://lod.opentransportdata.swiss/didok/8500211
+NG;Niederglatt;2018;ZH;SBB;1300;1500;790.0;;;;;47.4874710201,8.50331557555;http://lod.opentransportdata.swiss/didok/8503313
+NIE;Niederhasli;2018;ZH;SBB;2200;2600;1300.0;;;;;47.4783308835,8.48870740845;http://lod.opentransportdata.swiss/didok/8503314
+NRRB;Niederrickenbach Station;2018;NW;ZB;90;80;100.0;;;;;46.9281237019,8.3959358366;http://lod.opentransportdata.swiss/didok/8508384
+NR;Niederried;2018;BE;ZB;100;100;110.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.7164309693,7.92868412087;http://lod.opentransportdata.swiss/didok/8508302
+NWAL;Niederwald;2018;VS;MGB;170;170;150.0;;;;;46.4353310179,8.19021414942;http://lod.opentransportdata.swiss/didok/8501670
+NW;Niederweningen;2018;ZH;SBB;1100;1300;720.0;;;;;47.5112005965,8.36963061177;http://lod.opentransportdata.swiss/didok/8503319
+NWD;Niederweningen Dorf;2018;ZH;SBB;920;1100;550.0;;;;;47.5059136539,8.38107348439;http://lod.opentransportdata.swiss/didok/8503318
+NOI;Noiraigue;2018;NE;CFF;340;310;410.0;;;;;46.9549196121,6.72179914436;http://lod.opentransportdata.swiss/didok/8504216
+NO;Nottwil;2018;LU;SBB;920;1000;650.0;;;;;47.1388117477,8.13860102485;http://lod.opentransportdata.swiss/didok/8502008
+NY;Nyon;2018;VD;CFF;15900;19500;8100.0;Ohne NstCM.;Sans NstCM.;Senza NstCM.;Without NstCM.;46.3844189675,6.23596613063;http://lod.opentransportdata.swiss/didok/8501030
+OA;Oberaach;2018;TG;SBB;140;160;120.0;;;;;47.5533193738,9.27106226685;http://lod.opentransportdata.swiss/didok/8506108
+OBAL;Oberalppass;2018;UR;MGB;570;510;700.0;;;;;46.6602300606,8.67050236226;http://lod.opentransportdata.swiss/didok/8505172
+OB;Oberbuchsiten;2018;SO;SBB;730;850;450.0;;;;;47.3052472294,7.77172376414;http://lod.opentransportdata.swiss/didok/8500213
+OEF;Oberentfelden;2018;AG;SBB;870;1000;520.0;;;;;47.3564863954,8.04838712362;http://lod.opentransportdata.swiss/didok/8502102
+OBGE;Obergesteln;2018;VS;MGB;260;250;270.0;;;;;46.5132879816,8.32613403394;http://lod.opentransportdata.swiss/didok/8501662
+OGL;Oberglatt;2018;ZH;SBB;6500;7600;4100.0;;;;;47.4702046116,8.51061883625;http://lod.opentransportdata.swiss/didok/8503312
+OBK;Oberkirch;2018;LU;SBB;520;570;390.0;;;;;47.1552376224,8.11423445965;http://lod.opentransportdata.swiss/didok/8502011
+OAB;Oberried am Brienzersee;2018;BE;ZB;140;150;120.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.7365577609,7.95892631977;http://lod.opentransportdata.swiss/didok/8508303
+ORD;Oberrieden;2018;ZH;SBB;1300;1400;1000.0;;;;;47.2796763211,8.5784605877;http://lod.opentransportdata.swiss/didok/8503203
+ORDD;Oberrieden Dorf;2018;ZH;SBB;1600;1800;950.0;;;;;47.276731789,8.57765278797;http://lod.opentransportdata.swiss/didok/8502209
+ORT;Oberriet;2018;SG;SBB;400;450;280.0;;;;;47.323483224,9.57137704004;http://lod.opentransportdata.swiss/didok/8509400
+OI;Oberrüti;2018;AG;SBB;350;400;240.0;;;;;47.1659261721,8.40477945885;http://lod.opentransportdata.swiss/didok/8502219
+OBW;Oberwald;2018;VS;MGB;620;600;670.0;;;;;46.5308513129,8.34294481684;http://lod.opentransportdata.swiss/didok/8501661
+OWT;Oberwinterthur;2018;ZH;SBB;4800;5700;2600.0;;;;;47.5079223325,8.76038919617;http://lod.opentransportdata.swiss/didok/8506016
+OEN;Oensingen;2018;SO;SBB;5300;6000;3700.0;Ohne asm.;Sans ASM.;Senza ASM.;Without ASM.;47.2850351056,7.709870322;http://lod.opentransportdata.swiss/didok/8500212
+OL;Olten;2018;SO;SBB;74100;83000;54400.0;;;;;47.3519347593,7.90769964791;http://lod.opentransportdata.swiss/didok/8500218
+OLH;Olten Hammer;2018;SO;SBB;460;530;300.0;;;;;47.348555159,7.89772397198;http://lod.opentransportdata.swiss/didok/8500217
+OP;Opfikon;2018;ZH;SBB;2300;2800;1400.0;;;;;47.4299548439,8.56179479491;http://lod.opentransportdata.swiss/didok/8503340
+OPP;Oppikon;2018;TG;THURBO;50;50;50.0;;;;;47.5520642616,9.06210341128;http://lod.opentransportdata.swiss/didok/8506185
+OR;Oron;2018;VD;CFF;50;50;50.0;;;;;46.5725456097,6.837104144;http://lod.opentransportdata.swiss/didok/8504020
+OSBE;Ospizio Bernina;2018;GR;RhB;280;280;290.0;;;;;46.4087599995,10.0196999951;http://lod.opentransportdata.swiss/didok/8509356
+OSS;Ossingen;2018;ZH;SBB;480;570;270.0;;;;;47.6146139649,8.72411655179;http://lod.opentransportdata.swiss/didok/8506023
+OF;Otelfingen;2018;ZH;SBB;1400;1600;800.0;;;;;47.4549362025,8.38753243209;http://lod.opentransportdata.swiss/didok/8503528
+OFR;Otelfingen Golfpark;2018;ZH;SBB;600;750;270.0;;;;;47.4558216436,8.40211345491;http://lod.opentransportdata.swiss/didok/8503525
+OTH;Othmarsingen;2018;AG;SBB;1200;1500;580.0;;;;;47.4074335079,8.21480549444;http://lod.opentransportdata.swiss/didok/8502105
+PAL;Palézieux;2018;VD;CFF;4000;4600;2800.0;Ohne TPF.;Sans TPF.;Senza TPF.;Without TPF.;46.5427635936,6.83787527681;http://lod.opentransportdata.swiss/didok/8504014
+PALV;Palézieux-Village;2018;VD;CFF;120;140;60.0;;;;;46.5571131998,6.82887452474;http://lod.opentransportdata.swiss/didok/8504016
+PAY;Payerne;2018;VD;CFF;4500;5400;2500.0;;;;;46.8196499592,6.9398849232;http://lod.opentransportdata.swiss/didok/8504134
+PEI;Peist;2018;GR;RhB;50;50;50.0;;;;;46.8294999981,9.67162999625;http://lod.opentransportdata.swiss/didok/8509154
+PF;Pfäffikon SZ;2018;SZ;SBB;15000;16900;10800.0;;;;;47.2029974431,8.77812981895;http://lod.opentransportdata.swiss/didok/8503209
+PFZ;Pfäffikon ZH;2018;ZH;SBB;5400;6400;3300.0;;;;;47.3670862379,8.78479969848;http://lod.opentransportdata.swiss/didok/8503301
+PFU;Pfungen;2018;ZH;SBB;1400;1700;810.0;;;;;47.5160384049,8.64663394225;http://lod.opentransportdata.swiss/didok/8506042
+PIE;Pieterlen;2018;BE;SBB;1000;1200;680.0;;;;;47.171441154,7.34019353831;http://lod.opentransportdata.swiss/didok/8500200
+PTC;Pont-Céard;2018;GE;CFF;2900;3500;1400.0;;;;;46.2873981272,6.16266559583;http://lod.opentransportdata.swiss/didok/8501013
+PON;Pontenet;2018;BE;CFF;50;60;50.0;;;;;47.238848325,7.25415925791;http://lod.opentransportdata.swiss/didok/8500135
+PORE;Pontresina;2018;GR;RhB;1700;1800;1700.0;;;;;46.4906500002,9.89606999641;http://lod.opentransportdata.swiss/didok/8509255
+POR;Porrentruy;2018;JU;CFF;2600;3100;1400.0;Ohne CJ.;Sans CJ.;Senza CJ.;Without CJ.;47.4209163831,7.08007728509;http://lod.opentransportdata.swiss/didok/8500126
+POS;Poschiavo;2018;GR;RhB;650;710;530.0;;;;;46.3247999962,10.0543199979;http://lod.opentransportdata.swiss/didok/8509361
+PR;Pratteln;2018;BL;SBB;8600;10100;5100.0;;;;;47.5226686317,7.69081730427;http://lod.opentransportdata.swiss/didok/8500021
+PRSR;Pratteln Salina Raurica;2018;BL;SBB;980;1100;680.0;;;;;47.5305880862,7.70988907602;http://lod.opentransportdata.swiss/didok/8517131
+PRED;Preda;2018;GR;RhB;490;420;630.0;;;;;46.5881499947,9.77730999465;http://lod.opentransportdata.swiss/didok/8509198
+PRMA;Prilly-Malley;2018;VD;CFF;3100;3900;1500.0;;;;;46.5266919765,6.60262893925;http://lod.opentransportdata.swiss/didok/8518452
+PUI;Puidoux-Chexbres;2018;VD;CFF;1400;1800;580.0;;;;;46.4938412288,6.76568648465;http://lod.opentransportdata.swiss/didok/8504012
+PU;Pully;2018;VD;CFF;2100;2500;1300.0;;;;;46.5109236232,6.65946814021;http://lod.opentransportdata.swiss/didok/8501121
+PUN;Pully-Nord;2018;VD;CFF;690;880;260.0;;;;;46.5146814645,6.6579876066;http://lod.opentransportdata.swiss/didok/8504000
+PTM;Punt Muragl;2018;GR;RhB;90;90;90.0;;;;;46.5096800016,9.88118999519;http://lod.opentransportdata.swiss/didok/8509254
+PTMS;Punt Muragl Staz;2018;GR;RhB;50;50;50.0;;;;;46.5073499973,9.88041000543;http://lod.opentransportdata.swiss/didok/8509351
+QUA;Quartino;2018;TI;FFS;50;50;50.0;;;;;46.1512980892,8.88733121459;http://lod.opentransportdata.swiss/didok/8505405
+RASU;Rabius-Surrein;2018;GR;RhB;150;170;110.0;;;;;46.7325699968,8.95750000388;http://lod.opentransportdata.swiss/didok/8509177
+RZ;Rafz;2018;ZH;SBB;1700;1900;1100.0;;;;;47.6037967951,8.54345141156;http://lod.opentransportdata.swiss/didok/8503404
+RMZ;Rämismühle-Zell;2018;ZH;SBB;550;630;380.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4415389948,8.81913732453;http://lod.opentransportdata.swiss/didok/8506006
+RAN;Randa;2018;VS;CFF;650;700;550.0;;;;;46.1227199953,7.11775000448;http://lod.opentransportdata.swiss/didok/8519698
+RZO;Ranzo-S. Abbondio;2018;TI;FFS;50;50;50.0;;;;;46.1169978142,8.77653770945;http://lod.opentransportdata.swiss/didok/8505408
+RW;Rapperswil;2018;SG;SBB;21200;22900;17400.0;;;;;47.2248872123,8.8167448876;http://lod.opentransportdata.swiss/didok/8503110
+RAR;Raron;2018;VS;SBB;640;720;450.0;;;;;46.3062744146,7.80151060193;http://lod.opentransportdata.swiss/didok/8501604
+RAET;Räterschen;2018;ZH;SBB;650;740;470.0;;;;;47.4986819225,8.79501712952;http://lod.opentransportdata.swiss/didok/8506015
+REAL;Realp;2018;UR;MGB;250;240;280.0;;;;;46.5986257594,8.50345851647;http://lod.opentransportdata.swiss/didok/8505163
+REB;Rebstein-Marbach;2018;SG;SBB;290;330;210.0;;;;;47.3926400212,9.58675409445;http://lod.opentransportdata.swiss/didok/8506318
+RECK;Reckingen;2018;VS;MGB;310;330;270.0;;;;;46.4682253157,8.243888022;http://lod.opentransportdata.swiss/didok/8501666
+REC;Reconvilier;2018;BE;CFF;580;700;330.0;;;;;47.2352383329,7.22741792534;http://lod.opentransportdata.swiss/didok/8500101
+REG;Regensdorf-Watt;2018;ZH;SBB;6900;8100;4200.0;;;;;47.4365635258,8.47208492696;http://lod.opentransportdata.swiss/didok/8503526
+REIT;Reichenau-Tamins;2018;GR;RhB;630;650;580.0;;;;;46.8236599975,9.41254999503;http://lod.opentransportdata.swiss/didok/8509183
+RG;Reichenburg;2018;SZ;SBB;180;240;50.0;Reduzierte Betriebszeiten S27;Horaires d’exploitation du S27 réduits;Orari d’esercizio ridotti della S 27.;Reduced operating times for S27;47.1726982176,8.98232264544;http://lod.opentransportdata.swiss/didok/8503223
+REID;Reiden;2018;LU;SBB;1500;1800;870.0;;;;;47.2414683721,7.96877438563;http://lod.opentransportdata.swiss/didok/8502003
+REK;Rekingen AG;2018;AG;SBB;170;200;100.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5699713914,8.32712567861;http://lod.opentransportdata.swiss/didok/8503408
+RE;Renan BE;2018;BE;CFF;160;190;100.0;;;;;47.1257204567,6.92538209047;http://lod.opentransportdata.swiss/didok/8504312
+REN;Renens VD;2018;VD;CFF;18300;22500;8900.0;Ohne TSOL.;Sans TSOL.;Senza TSOL.;Without TSOL.;46.5370424669,6.57893533809;http://lod.opentransportdata.swiss/didok/8501118
+REU;Reuchenette-Péry;2018;BE;CFF;500;580;310.0;;;;;47.1897391015,7.24702472889;http://lod.opentransportdata.swiss/didok/8504302
+REUT;Reutlingen;2018;ZH;SBB;250;280;180.0;;;;;47.5296593785,8.75214807518;http://lod.opentransportdata.swiss/didok/8506036
+RHAE;Rhäzüns;2018;GR;RhB;810;920;590.0;;;;;46.7996799984,9.39926000098;http://lod.opentransportdata.swiss/didok/8509185
+RCK;Rheineck;2018;SG;SBB;1700;2000;1100.0;Ohne AB.;Sans AB.;Senza AB.;Without AB.;47.4668859339,9.59091263503;http://lod.opentransportdata.swiss/didok/8506313
+RF;Rheinfelden;2018;AG;SBB;8600;9900;5900.0;;;;;47.5512140325,7.79216890116;http://lod.opentransportdata.swiss/didok/8500301
+RFAU;Rheinfelden Augarten;2018;AG;SBB;1000;1200;680.0;;;;;47.5458782344,7.7680318743;http://lod.opentransportdata.swiss/didok/8500313
+RIAZ;Riazzino;2018;TI;FFS;650;670;610.0;;;;;46.1753363031,8.88639737366;http://lod.opentransportdata.swiss/didok/8505412
+RI;Richterswil;2018;ZH;SBB;4800;5400;3400.0;;;;;47.2083749971,8.70748135504;http://lod.opentransportdata.swiss/didok/8503207
+RIK;Rickenbach-Attikon;2018;ZH;SBB;;;;Angabe 2018 steht nicht zur Verfügung.;Chiffre non disponible pour l’année 2018.;Il dato del 2018 non è disponibile.;Value for 2018 not available.;47.5353573747,8.78917503852;http://lod.opentransportdata.swiss/didok/8506018
+RID;Riddes;2018;VS;CFF;570;690;300.0;;;;;46.1725111501,7.21785442217;http://lod.opentransportdata.swiss/didok/8501503
+RDM;Riedmatt SZ;2018;SZ;SOB;250;300;140.0;;;;;47.1967053453,8.71210210165;http://lod.opentransportdata.swiss/didok/8503294
+RIET;Rietheim;2018;AG;SBB;210;240;140.0;;;;;47.6007500947,8.27732794608;http://lod.opentransportdata.swiss/didok/8503410
+RN;Rikon;2018;ZH;SBB;800;910;550.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4450098189,8.79633214905;http://lod.opentransportdata.swiss/didok/8506005
+RIN;Ringgenberg;2018;BE;ZB;90;100;90.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.7038612593,7.89982544778;http://lod.opentransportdata.swiss/didok/8508301
+RIV;Rivaz;2018;VD;CFF;210;200;240.0;;;;;46.4742077361,6.78459498291;http://lod.opentransportdata.swiss/didok/8501126
+RIB;Rivera-Bironico;2018;TI;FFS;910;1000;630.0;;;;;46.1239765531,8.92528619655;http://lod.opentransportdata.swiss/didok/8505216
+ROC;Roche VD;2018;VD;CFF;50;60;50.0;;;;;46.3586963721,6.92705283746;http://lod.opentransportdata.swiss/didok/8501304
+RORE;Rodels-Realta;2018;GR;RhB;90;100;70.0;;;;;46.7351399937,9.43293000325;http://lod.opentransportdata.swiss/didok/8509187
+ROBG;Roggwil-Berg;2018;TG;SOB;300;340;210.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4855903102,9.39202280327;http://lod.opentransportdata.swiss/didok/8506394
+ROG;Roggwil-Wynau;2018;BE;SBB;270;320;160.0;;;;;47.2516396519,7.81491637783;http://lod.opentransportdata.swiss/didok/8508101
+ROL;Rolle;2018;VD;CFF;3700;4600;1800.0;;;;;46.462745816,6.33640380762;http://lod.opentransportdata.swiss/didok/8501033
+RH;Romanshorn;2018;TG;SBB;10400;11300;8500.0;;;;;47.5655228649,9.37937129226;http://lod.opentransportdata.swiss/didok/8506121
+ROM;Romont;2018;FR;CFF;2400;2600;1800.0;Ohne TPF.;Sans TPF.;Senza TPF.;Without TPF.;46.6935082612,6.91181142012;http://lod.opentransportdata.swiss/didok/8504023
+LBD;Root D4;2018;LU;SBB;860;1100;320.0;;;;;47.1048564329,8.37380807982;http://lod.opentransportdata.swiss/didok/8515997
+RS;Rorschach;2018;SG;SBB;4800;5100;4300.0;Ohne AB.;Sans AB.;Senza AB.;Without AB.;47.4780019754,9.5051412874;http://lod.opentransportdata.swiss/didok/8506311
+RSHF;Rorschach Hafen;2018;SG;SBB;990;1100;760.0;Ohne AB.;Sans AB.;Senza AB.;Without AB.;47.4785899184,9.49292329362;http://lod.opentransportdata.swiss/didok/8506306
+RSST;Rorschach Stadt;2018;SG;SBB;2400;2800;1400.0;;;;;47.4755923262,9.48936370848;http://lod.opentransportdata.swiss/didok/8506322
+ROS;Rosé;2018;FR;CFF;700;920;210.0;;;;;46.7826334494,7.06196862435;http://lod.opentransportdata.swiss/didok/8504028
+ROTH;Rothenbrunnen;2018;GR;RhB;150;180;70.0;;;;;46.7678599938,9.41960999448;http://lod.opentransportdata.swiss/didok/8509186
+RBG;Rothenburg;2018;LU;SBB;1200;1400;820.0;;;;;47.0891836745,8.24756144538;http://lod.opentransportdata.swiss/didok/8502020
+RBGD;Rothenburg Dorf;2018;LU;SBB;1400;1600;1100.0;;;;;47.0909099788,8.27319059247;http://lod.opentransportdata.swiss/didok/8502012
+RTT;Rothenthurm;2018;SZ;SOB;430;500;280.0;;;;;47.1057946519,8.67467329812;http://lod.opentransportdata.swiss/didok/8503282
+RTR;Rothrist;2018;AG;SBB;1000;1200;470.0;;;;;47.3064556794,7.87939646804;http://lod.opentransportdata.swiss/didok/8508103
+RK;Rotkreuz;2018;ZG;SBB;14400;17300;8000.0;;;;;47.1417641672,8.4304952639;http://lod.opentransportdata.swiss/didok/8502202
+RUER;Rueras;2018;GR;MGB;90;90;90.0;;;;;46.6782276792,8.75490784354;http://lod.opentransportdata.swiss/didok/8505175
+RUEU;Rueun;2018;GR;RhB;60;70;50.0;;;;;46.774690001,9.145609999;http://lod.opentransportdata.swiss/didok/8509173
+RUEN;Rümikon AG;2018;AG;SBB;100;130;50.0;;;;;47.5653838498,8.37366691787;http://lod.opentransportdata.swiss/didok/8503415
+RUEM;Rümlang;2018;ZH;SBB;4200;4900;2600.0;;;;;47.4540656088,8.5327673226;http://lod.opentransportdata.swiss/didok/8503311
+RLG;Rümlingen;2018;BL;SBB;90;110;50.0;;;;;47.4253792547,7.85054194349;http://lod.opentransportdata.swiss/didok/8500033
+RU;Rupperswil;2018;AG;SBB;2200;2700;1200.0;;;;;47.4032902507,8.12695636531;http://lod.opentransportdata.swiss/didok/8502114
+RUES;Rüschlikon;2018;ZH;SBB;3000;3500;1800.0;;;;;47.3071318746,8.55516265484;http://lod.opentransportdata.swiss/didok/8503201
+RUS;Russin;2018;GE;CFF;250;290;140.0;;;;;46.1883951307,6.01803595662;http://lod.opentransportdata.swiss/didok/8501002
+RTH;Rüthi SG;2018;SG;SBB;110;120;90.0;;;;;47.2867390933,9.53605686431;http://lod.opentransportdata.swiss/didok/8509401
+RUET;Rüti GL;2018;GL;SBB;150;170;100.0;Ohne Bahnbusse.;Sans bus de ligne.;Senza autobus della ferrovia.;Without rail buses.;46.9345459737,9.01303898247;http://lod.opentransportdata.swiss/didok/8503238
+RUE;Rüti ZH;2018;ZH;SBB;10000;11400;6700.0;;;;;47.2604838043,8.85407946345;http://lod.opentransportdata.swiss/didok/8503121
+SCAN;S-chanf;2018;GR;RhB;240;270;190.0;;;;;46.6119399988,9.98181999664;http://lod.opentransportdata.swiss/didok/8509259
+SAN;S. Antonino;2018;TI;FFS;530;590;390.0;;;;;46.1590491386,8.96952064604;http://lod.opentransportdata.swiss/didok/8505415
+SN;S. Nazzaro;2018;TI;FFS;50;50;50.0;;;;;46.1351576904,8.80705868101;http://lod.opentransportdata.swiss/didok/8505407
+SAAS;Saas;2018;GR;RhB;90;90;100.0;;;;;46.9076499944,9.80994999629;http://lod.opentransportdata.swiss/didok/8509065
+SACH;Sachseln;2018;OW;ZB;900;980;740.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.8709623649,8.23830577823;http://lod.opentransportdata.swiss/didok/8508313
+SAF;Safenwil;2018;AG;SBB;670;800;370.0;;;;;47.3217579024,7.98351823534;http://lod.opentransportdata.swiss/didok/8502100
+SAGL;Sagliains;2018;GR;RhB;1200;1200;1400.0;;;;;46.7633999945,10.0965799938;http://lod.opentransportdata.swiss/didok/8509269
+SD;Saland;2018;ZH;SBB;180;180;170.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.3942114087,8.85422136063;http://lod.opentransportdata.swiss/didok/8506009
+SAS;Salez-Sennwald;2018;SG;SBB;100;120;80.0;;;;;47.2414490789,9.50233572526;http://lod.opentransportdata.swiss/didok/8509402
+SAL;Salgesch;2018;VS;SBB;330;350;290.0;;;;;46.3091953366,7.57819435695;http://lod.opentransportdata.swiss/didok/8501600
+SAME;Samedan;2018;GR;RhB;2800;2900;2700.0;;;;;46.5337600014,9.87363000426;http://lod.opentransportdata.swiss/didok/8509251
+SAM;Samstagern;2018;ZH;SOB;1000;1200;570.0;;;;;47.1915524925,8.68598711615;http://lod.opentransportdata.swiss/didok/8503286
+SA;Sargans;2018;SG;SBB;11300;12300;9100.0;;;;;47.0448235144,9.44626047466;http://lod.opentransportdata.swiss/didok/8509411
+SAR;Sarnen;2018;OW;ZB;2900;3200;2400.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.8946062739,8.24749935852;http://lod.opentransportdata.swiss/didok/8508314
+SRND;Sarnen Nord;2018;OW;ZB;440;510;290.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;46.9001839836,8.24912588173;http://lod.opentransportdata.swiss/didok/8508323
+SY;Satigny;2018;GE;CFF;1700;2100;830.0;;;;;46.2142272255,6.0376652117;http://lod.opentransportdata.swiss/didok/8501003
+SAT;Sattel-Aegeri;2018;SZ;SOB;300;320;260.0;;;;;47.0798608793,8.62725202037;http://lod.opentransportdata.swiss/didok/8503281
+SAX;Saxon;2018;VS;CFF;810;990;420.0;;;;;46.1493833784,7.17343599205;http://lod.opentransportdata.swiss/didok/8501502
+SCH;Schachen (Herisau);2018;AR;SOB;140;160;90.0;;;;;47.3851357426,9.24320213894;http://lod.opentransportdata.swiss/didok/8506291
+SH;Schaffhausen;2018;SH;SBB;18900;21500;13200.0;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.;Sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.;Passengers boarding and alighting to/from abroad are only partially recorded.;47.6982815148,8.63275578013;http://lod.opentransportdata.swiss/didok/8503424
+SCAE;Schänis;2018;SG;SBB;640;720;470.0;;;;;47.1576571458,9.04397616792;http://lod.opentransportdata.swiss/didok/8503119
+SCRS;Schiers;2018;GR;RhB;1400;1600;850.0;;;;;46.9679900012,9.68836000449;http://lod.opentransportdata.swiss/didok/8509060
+SCHI;Schindellegi-Feusisberg;2018;SZ;SOB;830;970;510.0;;;;;47.1764092843,8.70937781615;http://lod.opentransportdata.swiss/didok/8503285
+SBAD;Schinznach Bad;2018;AG;SBB;480;570;300.0;;;;;47.4517851643,8.16694860845;http://lod.opentransportdata.swiss/didok/8502116
+SCHT;Schlatt;2018;TG;SBB;270;320;180.0;;;;;47.6794997864,8.68751082255;http://lod.opentransportdata.swiss/didok/8503427
+SCHN;Schlattingen;2018;TG;SBB;210;230;160.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.6666243318,8.77043371755;http://lod.opentransportdata.swiss/didok/8503429
+SCHL;Schlieren;2018;ZH;SBB;11800;14100;6500.0;;;;;47.3991763682,8.44724506334;http://lod.opentransportdata.swiss/didok/8503509
+SLF;Schloss Laufen am Rheinfall;2018;ZH;SBB;350;270;510.0;;;;;47.6765656524,8.61426904409;http://lod.opentransportdata.swiss/didok/8506039
+SCME;Schmerikon;2018;SG;SBB;1300;1400;1000.0;;;;;47.2251601306,8.94338195257;http://lod.opentransportdata.swiss/didok/8503115
+SCHO;Schöfflisdorf-Oberweningen;2018;ZH;SBB;1300;1500;720.0;;;;;47.4979713603,8.41181230231;http://lod.opentransportdata.swiss/didok/8503317
+SCOE;Schönenwerd SO;2018;SO;SBB;1500;1800;780.0;;;;;47.3714238706,8.00015839874;http://lod.opentransportdata.swiss/didok/8502112
+SCHK;Schottikon;2018;ZH;SBB;360;400;260.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5001174986,8.81171907243;http://lod.opentransportdata.swiss/didok/8506035
+SCBU;Schübelbach-Buttikon;2018;SZ;SBB;100;130;50.0;Reduzierte Betriebszeiten S27;Horaires d’exploitation du S27 réduits;Orari d’esercizio ridotti della S 27.;Reduced operating times for S27;47.1763898301,8.93878097396;http://lod.opentransportdata.swiss/didok/8503222
+SCHD;Schwanden;2018;GL;SBB;1400;1500;1100.0;Ohne Bahnbusse.;Sans bus de ligne.;Senza autobus della ferrovia.;Without rail buses.;46.9968522403,9.07746572383;http://lod.opentransportdata.swiss/didok/8503233
+SCWE;Schwerzenbach ZH;2018;ZH;SBB;10000;12000;5600.0;;;;;47.3843858236,8.6586736149;http://lod.opentransportdata.swiss/didok/8503127
+SCHW;Schwyz;2018;SZ;SBB;2900;3200;2300.0;;;;;47.026397191,8.63215170839;http://lod.opentransportdata.swiss/didok/8505006
+SCTA;Scuol-Tarasp;2018;GR;RhB;1500;1400;1600.0;;;;;46.7937699962,10.2862199944;http://lod.opentransportdata.swiss/didok/8509268
+SED;Sedrun;2018;GR;MGB;560;570;550.0;;;;;46.6810671512,8.76978098878;http://lod.opentransportdata.swiss/didok/8505176
+SEEV;Seewis-Valzeina;2018;GR;RhB;60;80;50.0;;;;;46.9768900022,9.63254000504;http://lod.opentransportdata.swiss/didok/8509058
+SEG;Segnas;2018;GR;MGB;50;50;60.0;;;;;46.6909974749,8.82981823972;http://lod.opentransportdata.swiss/didok/8505179
+SEL;Selzach;2018;SO;SBB;820;990;450.0;;;;;47.2006240301,7.4566350402;http://lod.opentransportdata.swiss/didok/8500204
+SEM;Sempach-Neuenkirch;2018;LU;SBB;2100;2500;1400.0;;;;;47.1160532116,8.19597905819;http://lod.opentransportdata.swiss/didok/8502009
+SKY;Sennhof-Kyburg;2018;ZH;SBB;580;670;390.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4651768845,8.76034626042;http://lod.opentransportdata.swiss/didok/8506003
+SE;Seon;2018;AG;SBB;690;800;440.0;;;;;47.3461489565,8.15880738978;http://lod.opentransportdata.swiss/didok/8502030
+SEU;Seuzach;2018;ZH;SBB;1600;1900;1000.0;;;;;47.5357669759,8.73888343051;http://lod.opentransportdata.swiss/didok/8506020
+SEV;Sevelen;2018;SG;SBB;260;310;150.0;;;;;47.1253747656,9.49383527244;http://lod.opentransportdata.swiss/didok/8509406
+SIB;Siebnen-Wangen;2018;SZ;SBB;3000;3600;1800.0;Reduzierte Betriebszeiten S27;Horaires d’exploitation du S27 réduits;Orari d’esercizio ridotti della S 27.;Reduced operating times for S27;47.1826706974,8.90071360394;http://lod.opentransportdata.swiss/didok/8503221
+SHAU;Siegershausen;2018;TG;THURBO;130;140;100.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.6109169972,9.16826001807;http://lod.opentransportdata.swiss/didok/8506195
+SIE;Sierre/Siders;2018;VS;CFF;5900;6500;4500.0;;;;;46.2921215638,7.53282555582;http://lod.opentransportdata.swiss/didok/8501509
+SIG;Siggenthal-Würenlingen;2018;AG;SBB;1400;1700;640.0;;;;;47.5206899939,8.24065999621;http://lod.opentransportdata.swiss/didok/8503502
+SINS;Sins;2018;AG;SBB;1200;1400;720.0;;;;;47.1883142367,8.397830915;http://lod.opentransportdata.swiss/didok/8502218
+SIO;Sion;2018;VS;CFF;11600;13400;7600.0;;;;;46.2275531964,7.35919703457;http://lod.opentransportdata.swiss/didok/8501506
+SIR;Sirnach;2018;TG;SBB;830;940;590.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4619971041,9.00047425934;http://lod.opentransportdata.swiss/didok/8506010
+SK;Sisikon;2018;UR;SBB;220;190;290.0;;;;;46.9492540146,8.62074872767;http://lod.opentransportdata.swiss/didok/8505111
+SIS;Sissach;2018;BL;SBB;7800;8800;5400.0;;;;;47.4627541169,7.81202757047;http://lod.opentransportdata.swiss/didok/8500026
+SIT;Sitterdorf;2018;TG;SBB;140;150;110.0;;;;;47.5052184469,9.24899690821;http://lod.opentransportdata.swiss/didok/8506214
+SO;Solothurn;2018;SO;SBB;16300;18300;11700.0;Ohne ASM und RBS.;Sans ASM et RBS.;Senza ASM e RBS.;Without ASM and RBS.;47.2041925029,7.54268921098;http://lod.opentransportdata.swiss/didok/8500207
+SOAD;Solothurn Allmend;2018;SO;SBB;440;490;320.0;;;;;47.2088862989,7.52142705346;http://lod.opentransportdata.swiss/didok/8518963
+SW;Solothurn West;2018;SO;SBB;1400;1700;840.0;;;;;47.2067172884,7.53194915011;http://lod.opentransportdata.swiss/didok/8500206
+SOM;Sommerau;2018;BL;SBB;50;50;50.0;;;;;47.4390213579,7.85148136589;http://lod.opentransportdata.swiss/didok/8500032
+SCB;Sonceboz-Sombeval;2018;BE;CFF;2400;3000;1100.0;;;;;47.1951483572,7.16876357856;http://lod.opentransportdata.swiss/didok/8504304
+SV;Sonvilier;2018;BE;CFF;170;200;100.0;;;;;47.1413421186,6.96935277867;http://lod.opentransportdata.swiss/didok/8504311
+SOR;Sorvilier;2018;BE;CFF;70;80;50.0;;;;;47.2392467214,7.30577402767;http://lod.opentransportdata.swiss/didok/8500103
+SPIN;Spinas;2018;GR;RhB;70;50;100.0;;;;;46.559839994,9.8453299983;http://lod.opentransportdata.swiss/didok/8509199
+SBL;St-Blaise CFF;2018;NE;CFF;360;430;220.0;;;;;47.0145759459,6.98211019495;http://lod.opentransportdata.swiss/didok/8504222
+STGI;St-Gingolph (Suisse);2018;VS;CFF;250;290;160.0;;;;;46.3921944182,6.80593200412;http://lod.opentransportdata.swiss/didok/8501428
+STI;St-Imier;2018;BE;CFF;1900;2300;960.0;;;;;47.1517110812,7.00122388741;http://lod.opentransportdata.swiss/didok/8504310
+SL;St-Léonard;2018;VS;CFF;590;700;350.0;;;;;46.2514885752,7.41956823287;http://lod.opentransportdata.swiss/didok/8501507
+SM;St-Maurice;2018;VS;CFF;5000;6100;2800.0;;;;;46.2163695028,7.00204389825;http://lod.opentransportdata.swiss/didok/8501403
+STP;St-Prex;2018;VD;CFF;1300;1600;630.0;;;;;46.4823169063,6.4559060173;http://lod.opentransportdata.swiss/didok/8501036
+STSA;St-Saphorin;2018;VD;CFF;190;170;240.0;;;;;46.4725937078,6.79703368938;http://lod.opentransportdata.swiss/didok/8501127
+SU;St-Ursanne;2018;JU;CFF;330;330;330.0;;;;;47.3677029034,7.16595705354;http://lod.opentransportdata.swiss/didok/8500124
+STER;St. Erhard-Knutwil;2018;LU;SBB;120;140;90.0;;;;;47.1800819119,8.07458153471;http://lod.opentransportdata.swiss/didok/8502010
+SG;St. Gallen;2018;SG;SBB;43000;48600;30500.0;Ohne AB.;Sans AB.;Senza AB.;Without AB.;47.4231789499,9.36989666272;http://lod.opentransportdata.swiss/didok/8506302
+SGBR;St. Gallen Bruggen;2018;SG;SBB;330;380;230.0;;;;;47.4072028521,9.32965492815;http://lod.opentransportdata.swiss/didok/8506301
+SGHA;St. Gallen Haggen;2018;SG;SOB;1000;1200;660.0;;;;;47.4077570324,9.33814644334;http://lod.opentransportdata.swiss/didok/8506392
+SGF;St. Gallen St. Fiden;2018;SG;SBB;2600;3100;1500.0;;;;;47.4345403825,9.39344380222;http://lod.opentransportdata.swiss/didok/8506303
+SGWI;St. Gallen Winkeln;2018;SG;SBB;1000;1200;660.0;;;;;47.4039294111,9.30086029135;http://lod.opentransportdata.swiss/didok/8506300
+STKT;St. Katharinental;2018;TG;SBB;180;200;130.0;;;;;47.6875634563,8.73204004435;http://lod.opentransportdata.swiss/didok/8506148
+SMG;St. Margrethen;2018;SG;SBB;2500;2800;2000.0;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.;Sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.;Passengers boarding and alighting to/from abroad are only partially recorded.;47.4532159937,9.63826192024;http://lod.opentransportdata.swiss/didok/8506314
+SMOR;St. Moritz;2018;GR;RhB;3600;3300;4300.0;;;;;46.4979699959,9.84639000322;http://lod.opentransportdata.swiss/didok/8509253
+SNK;St. Niklaus;2018;VS;MGB;720;790;590.0;;;;;46.177477204,7.8021028253;http://lod.opentransportdata.swiss/didok/8501685
+STPM;St. Peter-Molinis;2018;GR;RhB;80;70;110.0;;;;;46.8291499944,9.65384999333;http://lod.opentransportdata.swiss/didok/8509153
+STA;Staad;2018;SG;SBB;670;760;470.0;;;;;47.4805293558,9.53445125334;http://lod.opentransportdata.swiss/didok/8506312
+STAF;Stabio;2018;TI;FFS;750;960;280.0;;;;;45.8497096554,8.94394221429;http://lod.opentransportdata.swiss/didok/8517519
+STAE;Stäfa;2018;ZH;SBB;5300;6100;3400.0;;;;;47.2405271985,8.72165286994;http://lod.opentransportdata.swiss/didok/8503107
+STAS;Stalden-Saas;2018;VS;MGB;500;500;510.0;;;;;46.2319758317,7.87075460369;http://lod.opentransportdata.swiss/didok/8501683
+STM;Stammheim;2018;ZH;SBB;500;580;330.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.6348812953,8.78875014082;http://lod.opentransportdata.swiss/didok/8506024
+STAN;Stans;2018;NW;ZB;5500;6200;4100.0;;;;;46.9583969246,8.36658044639;http://lod.opentransportdata.swiss/didok/8508391
+SSTA;Stansstad;2018;NW;ZB;1500;1700;1200.0;;;;;46.976270052,8.3366391332;http://lod.opentransportdata.swiss/didok/8508390
+STK;Steckborn;2018;TG;SBB;900;990;690.0;;;;;47.6645045742,8.98103307719;http://lod.opentransportdata.swiss/didok/8506136
+STG;Steg;2018;ZH;SBB;220;210;250.0;;;;;47.3538524649,8.93237176855;http://lod.opentransportdata.swiss/didok/8503135
+STR;Stein am Rhein;2018;SH;SBB;2000;2100;1800.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.656110965,8.85502005429;http://lod.opentransportdata.swiss/didok/8506139
+STS;Stein-Säckingen;2018;AG;SBB;3100;3800;1500.0;;;;;47.54160826,7.94884287334;http://lod.opentransportdata.swiss/didok/8500320
+STCH;Steinach;2018;SG;SBB;460;520;320.0;;;;;47.5009559139,9.44200338685;http://lod.opentransportdata.swiss/didok/8516271
+STB;Steinebrunn;2018;TG;SOB;140;150;100.0;;;;;47.5315329411,9.34985854135;http://lod.opentransportdata.swiss/didok/8506397
+STN;Steinen;2018;SZ;SBB;590;670;420.0;;;;;47.0476686393,8.60744931426;http://lod.opentransportdata.swiss/didok/8505005
+STBG;Steinerberg;2018;SZ;SOB;160;190;90.0;;;;;47.0522122886,8.58527759304;http://lod.opentransportdata.swiss/didok/8503280
+STE;Steinhausen;2018;ZG;SBB;970;1200;530.0;;;;;47.1945814802,8.47843655924;http://lod.opentransportdata.swiss/didok/8502227
+STRI;Steinhausen Rigiblick;2018;ZG;SBB;790;1100;200.0;;;;;47.1878637702,8.47970387299;http://lod.opentransportdata.swiss/didok/8518459
+STMR;Steinmaur;2018;ZH;SBB;1100;1300;690.0;;;;;47.4899867587,8.44685777449;http://lod.opentransportdata.swiss/didok/8503316
+STET;Stettbach;2018;ZH;SBB;21600;25800;12300.0;;;;;47.397215408,8.59614477854;http://lod.opentransportdata.swiss/didok/8503147
+SUHR;Suhr;2018;AG;SBB;1800;2100;1000.0;Ohne AVA.;Sans AVA.;Senza AVA.;Without AVA.;47.3716354742,8.08229064021;http://lod.opentransportdata.swiss/didok/8502103
+SLG;Sulgen;2018;TG;SBB;1200;1400;690.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.5388040255,9.18369443891;http://lod.opentransportdata.swiss/didok/8506217
+SUCU;Sumvitg-Cumpadials;2018;GR;RhB;110;120;80.0;;;;;46.7240611657,8.9310272261;http://lod.opentransportdata.swiss/didok/8509178
+SURA;Surava;2018;GR;RhB;50;50;50.0;;;;;46.6668599994,9.62094000291;http://lod.opentransportdata.swiss/didok/8509193
+SURO;Surovas;2018;GR;RhB;100;110;80.0;;;;;46.4856299933,9.90568000621;http://lod.opentransportdata.swiss/didok/8509352
+SS;Sursee;2018;LU;SBB;12100;13900;8100.0;;;;;47.1707950409,8.09789386466;http://lod.opentransportdata.swiss/didok/8502007
+SUS;Susch;2018;GR;RhB;150;160;130.0;;;;;46.7520800024,10.0793300033;http://lod.opentransportdata.swiss/didok/8509263
+TAEN;Tägerschen;2018;TG;THURBO;100;120;50.0;;;;;47.509363876,9.02479327434;http://lod.opentransportdata.swiss/didok/8506168
+TAEM;Tägerwilen Dorf;2018;TG;THURBO;250;280;180.0;;;;;47.6537211754,9.13955959957;http://lod.opentransportdata.swiss/didok/8506198
+TAEG;Tägerwilen-Gottlieben;2018;TG;SBB;590;700;360.0;;;;;47.6596147908,9.13297928203;http://lod.opentransportdata.swiss/didok/8506132
+TD;Tann-Dürnten;2018;ZH;SBB;160;180;110.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.2683775923,8.85272272553;http://lod.opentransportdata.swiss/didok/8503139
+TAN;Tannay;2018;VD;CFF;420;530;190.0;;;;;46.3076451449,6.18112036456;http://lod.opentransportdata.swiss/didok/8501015
+TAES;Täsch;2018;VS;MGB;490;550;370.0;;;;;46.0674557947,7.77450721429;http://lod.opentransportdata.swiss/didok/8501688
+TABR;Tavanasa-Breil/Brigels;2018;GR;RhB;240;260;210.0;;;;;46.7547599972,9.0624299982;http://lod.opentransportdata.swiss/didok/8509175
+TA;Tavannes;2018;BE;CFF;1600;1900;970.0;Ohne CJ.;Sans CJ.;Senza CJ.;Without CJ.;47.2198446603,7.20164538962;http://lod.opentransportdata.swiss/didok/8500100
+TAV;Taverne-Torricella;2018;TI;FFS;830;1000;390.0;;;;;46.0566855574,8.93033042594;http://lod.opentransportdata.swiss/didok/8505218
+TK;Tecknau;2018;BL;SBB;470;520;380.0;;;;;47.4457602069,7.88761819102;http://lod.opentransportdata.swiss/didok/8500028
+TEN;Tenero;2018;TI;FFS;1500;1600;1300.0;;;;;46.1774674587,8.85022618523;http://lod.opentransportdata.swiss/didok/8505401
+TER;Territet;2018;VD;CFF;230;250;190.0;;;;;46.4263815655,6.92270695101;http://lod.opentransportdata.swiss/didok/8501301
+TLH;Thalheim-Altikon;2018;ZH;SBB;160;180;110.0;;;;;47.5696213508,8.75764323585;http://lod.opentransportdata.swiss/didok/8506022
+TW;Thalwil;2018;ZH;SBB;17600;20100;12200.0;;;;;47.2959814072,8.56476944907;http://lod.opentransportdata.swiss/didok/8503202
+TH;Thun;2018;BE;SBB;32700;36000;25500.0;;;;;46.7548527306,7.62960582867;http://lod.opentransportdata.swiss/didok/8507100
+THS;Thusis;2018;GR;RhB;1800;1900;1500.0;;;;;46.6982000005,9.44049999424;http://lod.opentransportdata.swiss/didok/8509189
+TICA;Tiefencastel;2018;GR;RhB;500;470;560.0;;;;;46.6638799995,9.57285999721;http://lod.opentransportdata.swiss/didok/8509192
+TOA;Tobel-Affeltrangen;2018;TG;THURBO;240;280;140.0;;;;;47.5213013518,9.03370938358;http://lod.opentransportdata.swiss/didok/8506183
+TR;Travers;2018;NE;CFF;320;370;200.0;Ohne TRN.;Sans TRN.;Senza TRN.;Without TRN.;46.942411535,6.67656165588;http://lod.opentransportdata.swiss/didok/8504215
+TRIB;Triboltingen;2018;TG;SBB;70;80;70.0;;;;;47.6628959606,9.10876054082;http://lod.opentransportdata.swiss/didok/8506118
+TRI;Trimbach;2018;SO;SBB;80;90;50.0;;;;;47.3660521904,7.90428535854;http://lod.opentransportdata.swiss/didok/8500037
+TRIN;Trin;2018;GR;RhB;80;70;90.0;;;;;46.8165699983,9.35952000542;http://lod.opentransportdata.swiss/didok/8509167
+TRUN;Trun;2018;GR;RhB;300;350;190.0;;;;;46.742539997,8.99044000229;http://lod.opentransportdata.swiss/didok/8509176
+TSSE;Tschamut-Selva;2018;GR;MGB;120;120;130.0;;;;;46.6567444204,8.70908419369;http://lod.opentransportdata.swiss/didok/8505173
+TU;Turbenthal;2018;ZH;SBB;1200;1300;790.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4373845544,8.84381988884;http://lod.opentransportdata.swiss/didok/8506007
+TG;Turgi;2018;AG;SBB;6300;7600;3200.0;;;;;47.4917573195,8.25345864571;http://lod.opentransportdata.swiss/didok/8503503
+TUR;Turtmann;2018;VS;SBB;290;330;210.0;;;;;46.3093314147,7.69960496792;http://lod.opentransportdata.swiss/didok/8501602
+TUE;Tüscherz;2018;BE;SBB;110;120;110.0;;;;;47.1150077526,7.19731836547;http://lod.opentransportdata.swiss/didok/8504229
+TWN;Twann;2018;BE;SBB;480;470;520.0;;;;;47.0936640656,7.15649750354;http://lod.opentransportdata.swiss/didok/8504228
+UER;Uerikon;2018;ZH;SBB;1900;2300;1100.0;;;;;47.2358607747,8.75262520306;http://lod.opentransportdata.swiss/didok/8503108
+UET;Uetikon;2018;ZH;SBB;4600;5500;2500.0;;;;;47.2590301304,8.67878709851;http://lod.opentransportdata.swiss/didok/8503105
+ULR;Ulrichen;2018;VS;MGB;280;300;240.0;;;;;46.5050182099,8.30882061459;http://lod.opentransportdata.swiss/didok/8501663
+UNT;Unterterzen;2018;SG;SBB;580;490;800.0;;;;;47.1138568707,9.25501837741;http://lod.opentransportdata.swiss/didok/8509416
+UVAZ;Untervaz;2018;GR;RhB;740;860;480.0;;;;;46.9189799954,9.55917000023;http://lod.opentransportdata.swiss/didok/8509053
+URD;Urdorf;2018;ZH;SBB;2300;2800;1200.0;;;;;47.3908833369,8.43473069804;http://lod.opentransportdata.swiss/didok/8502220
+URDW;Urdorf Weihermatt;2018;ZH;SBB;2000;2400;1300.0;;;;;47.3809699825,8.43034251329;http://lod.opentransportdata.swiss/didok/8502229
+UST;Uster;2018;ZH;SBB;23400;27400;14500.0;;;;;47.350369009,8.71870915949;http://lod.opentransportdata.swiss/didok/8503125
+UTW;Uttwil;2018;TG;SBB;410;440;340.0;;;;;47.5860238018,9.3397029742;http://lod.opentransportdata.swiss/didok/8506122
+UZ;Uznach;2018;SG;SBB;7600;8600;5500.0;;;;;47.2242827961,8.98069081394;http://lod.opentransportdata.swiss/didok/8503116
+UZW;Uzwil;2018;SG;SBB;4800;5800;2800.0;;;;;47.4364439991,9.1309918193;http://lod.opentransportdata.swiss/didok/8506208
+VASA;Valendas-Sagogn;2018;GR;RhB;120;100;170.0;;;;;46.7917900009,9.2754599971;http://lod.opentransportdata.swiss/didok/8509169
+VAL;Vallorbe;2018;VD;CFF;830;980;490.0;Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.;Les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.;Sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.;Passengers boarding and alighting to/from abroad are only partially recorded.;46.7124063243,6.37056563541;http://lod.opentransportdata.swiss/didok/8501103
+VD;Vauderens;2018;FR;CFF;50;50;50.0;;;;;46.6214553804,6.85003757732;http://lod.opentransportdata.swiss/didok/8504021
+VAU;Vaumarcus;2018;NE;CFF;50;50;50.0;;;;;46.8776431737,6.75757922152;http://lod.opentransportdata.swiss/didok/8504204
+VERN;Vernayaz;2018;VS;CFF;360;440;170.0;;;;;46.1385460081,7.03835858628;http://lod.opentransportdata.swiss/didok/8501405
+COI;Vernier;2018;GE;CFF;760;980;270.0;;;;;46.2207186975,6.09389170749;http://lod.opentransportdata.swiss/didok/8501007
+VESA;Versam-Safien;2018;GR;RhB;210;190;250.0;;;;;46.8073799991,9.31029999497;http://lod.opentransportdata.swiss/didok/8509168
+VSX;Versoix;2018;GE;CFF;2900;3500;1400.0;;;;;46.2797271849,6.16574129202;http://lod.opentransportdata.swiss/didok/8501022
+VV;Vevey;2018;VD;CFF;21000;24100;14100.0;Inklusive Bahnverkehr MVR.;Trains MVR inclus.;Incl. treni MVR.;Including trains of MVR.;46.4630018107,6.84344559824;http://lod.opentransportdata.swiss/didok/8501200
+VVFU;Vevey-Funi;2018;VD;CFF;70;70;60.0;;;;;46.4682767046,6.83544329034;http://lod.opentransportdata.swiss/didok/8504015
+VEY;Veytaux-Chillon;2018;VD;CFF;120;110;140.0;;;;;46.4176211959,6.92786078229;http://lod.opentransportdata.swiss/didok/8501302
+VG;Villars-sur-Glâne;2018;FR;CFF;210;260;90.0;;;;;46.7898298188,7.11638562388;http://lod.opentransportdata.swiss/didok/8504030
+VZ;Villaz-St-Pierre;2018;FR;CFF;290;360;120.0;;;;;46.720580405,6.96064288147;http://lod.opentransportdata.swiss/didok/8504024
+VIL;Villeneuve;2018;VD;CFF;2100;2400;1300.0;;;;;46.3983715064,6.92700310805;http://lod.opentransportdata.swiss/didok/8501303
+VT;Villeret;2018;BE;CFF;140;150;110.0;;;;;47.1602036834,7.0196751732;http://lod.opentransportdata.swiss/didok/8504309
+VTE;Villette VD;2018;VD;CFF;120;130;110.0;;;;;46.4953367461,6.70728692012;http://lod.opentransportdata.swiss/didok/8501123
+VIO;Vionnaz;2018;VS;CFF;130;160;70.0;;;;;46.3150328386,6.9162029673;http://lod.opentransportdata.swiss/didok/8501423
+VI;Visp;2018;VS;SBB;20600;20000;21900.0;;;;;46.2940291354,7.88146547575;http://lod.opentransportdata.swiss/didok/8501605
+VOU;Vouvry;2018;VS;CFF;430;550;160.0;;;;;46.3372964438,6.89757554328;http://lod.opentransportdata.swiss/didok/8501424
+VU;Vufflens-la-Ville;2018;VD;CFF;420;520;200.0;;;;;46.5762449809,6.53076759961;http://lod.opentransportdata.swiss/didok/8501116
+WAE;Wädenswil;2018;ZH;SBB;17300;19700;11900.0;;;;;47.2293072774,8.67521627099;http://lod.opentransportdata.swiss/didok/8503206
+WCHW;Walchwil;2018;ZG;SBB;530;630;300.0;;;;;47.0986869955,8.51693439376;http://lod.opentransportdata.swiss/didok/8502205
+WCHO;Walchwil Hörndli;2018;ZG;SBB;50;50;50.0;;;;;47.1084611208,8.50477763473;http://lod.opentransportdata.swiss/didok/8517112
+WL;Wald;2018;ZH;SBB;750;830;580.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.2726905046,8.91399975334;http://lod.opentransportdata.swiss/didok/8503138
+WAB;Waldibrücke;2018;LU;SBB;690;830;370.0;;;;;47.1078993429,8.31971009182;http://lod.opentransportdata.swiss/didok/8502017
+WAL;Walenstadt;2018;SG;SBB;1500;1600;1200.0;;;;;47.1198736086,9.31298145333;http://lod.opentransportdata.swiss/didok/8509414
+WS;Wallisellen;2018;ZH;SBB;13600;17100;6100.0;;;;;47.4127230862,8.59192819967;http://lod.opentransportdata.swiss/didok/8503129
+WAVU;Waltensburg/Vuorz;2018;GR;RhB;50;50;50.0;;;;;46.7695599949,9.12015000546;http://lod.opentransportdata.swiss/didok/8509174
+WAST;Walterswil-Striegel;2018;AG;SBB;110;130;60.0;;;;;47.3199235687,7.963203602;http://lod.opentransportdata.swiss/didok/8502121
+WAA;Wangen an der Aare;2018;BE;SBB;720;800;560.0;;;;;47.2319565252,7.6562344886;http://lod.opentransportdata.swiss/didok/8500210
+WBOL;Wangen bei Olten;2018;SO;SBB;840;990;500.0;;;;;47.3414006731,7.86836052;http://lod.opentransportdata.swiss/didok/8500216
+WA;Wattwil;2018;SG;SOB;7300;8200;5300.0;;;;;47.2994772641,9.08648237238;http://lod.opentransportdata.swiss/didok/8506200
+WAU;Wauwil;2018;LU;SBB;940;1100;590.0;;;;;47.1838589748,8.01902005935;http://lod.opentransportdata.swiss/didok/8502006
+WF;Weinfelden;2018;TG;SBB;14600;16600;10100.0;;;;;47.5662242632,9.10636822199;http://lod.opentransportdata.swiss/didok/8506105
+WE;Wettingen;2018;AG;SBB;4900;6000;2400.0;;;;;47.4596381759,8.31600617145;http://lod.opentransportdata.swiss/didok/8503505
+WZ;Wetzikon;2018;ZH;SBB;24500;28700;15000.0;;;;;47.3180316315,8.79228973378;http://lod.opentransportdata.swiss/didok/8503123
+WIES;Wiesen;2018;GR;RhB;70;70;80.0;;;;;46.6954899978,9.71584000191;http://lod.opentransportdata.swiss/didok/8509078
+WD;Wiesendangen;2018;ZH;SBB;820;970;500.0;;;;;47.5255430373,8.77603800127;http://lod.opentransportdata.swiss/didok/8506017
+WIL;Wil;2018;SG;SBB;17800;20200;12400.0;Ohne FW.;Sans FW.;Senza FW.;Without FW.;47.4624132427,9.04099305047;http://lod.opentransportdata.swiss/didok/8506206
+WILA;Wila;2018;ZH;SBB;530;590;380.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4177744699,8.84849088989;http://lod.opentransportdata.swiss/didok/8506008
+WI;Wildegg;2018;AG;SBB;1300;1600;700.0;;;;;47.4152751447,8.16301990851;http://lod.opentransportdata.swiss/didok/8502115
+WILN;Wilen bei Wollerau;2018;SZ;SOB;300;350;210.0;;;;;47.1975843231,8.73433286443;http://lod.opentransportdata.swiss/didok/8503295
+WIN;Winkel am Zürichsee;2018;ZH;SBB;1300;1500;800.0;;;;;47.2972078453,8.59898830941;http://lod.opentransportdata.swiss/didok/8503111
+W;Winterthur;2018;ZH;SBB;95100;109300;63600.0;;;;;47.5003338105,8.72382105541;http://lod.opentransportdata.swiss/didok/8506000
+WGR;Winterthur Grüze;2018;ZH;SBB;2000;2400;1100.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4987547142,8.75105520262;http://lod.opentransportdata.swiss/didok/8506001
+WHE;Winterthur Hegi;2018;ZH;SBB;520;620;310.0;;;;;47.5014854738,8.76894715007;http://lod.opentransportdata.swiss/didok/8516218
+WSEE;Winterthur Seen;2018;ZH;SBB;3000;3500;1700.0;Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.;Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.;Valore medio 2018 compromesso dallo sbarramento di tratta.;Average value for 2018 impacted by line closure.;47.4874354194,8.76681349078;http://lod.opentransportdata.swiss/didok/8506002
+WTOE;Winterthur Töss;2018;ZH;SBB;630;720;440.0;;;;;47.4898063841,8.70930994344;http://lod.opentransportdata.swiss/didok/8506044
+WWAL;Winterthur Wallrüti;2018;ZH;SBB;1200;1400;860.0;;;;;47.5167216635,8.76088216732;http://lod.opentransportdata.swiss/didok/8506038
+WWUE;Winterthur Wülflingen;2018;ZH;SBB;710;840;420.0;;;;;47.5064358499,8.68092954434;http://lod.opentransportdata.swiss/didok/8506043
+WIT;Wittenbach;2018;SG;SOB;1200;1400;690.0;;;;;47.4628490212,9.3885482761;http://lod.opentransportdata.swiss/didok/8506393
+WO;Wohlen;2018;AG;SBB;5500;6500;3300.0;Ohne AVA.;Sans AVA.;Senza AVA.;Without AVA.;47.348464036,8.26979233871;http://lod.opentransportdata.swiss/didok/8502213
+WOS;Wolfenschiessen;2018;NW;ZB;470;500;400.0;;;;;46.9078226424,8.39479782106;http://lod.opentransportdata.swiss/didok/8508394
+WOL;Wollerau;2018;SZ;SOB;570;650;380.0;;;;;47.1954375907,8.72500984767;http://lod.opentransportdata.swiss/didok/8503288
+WUER;Würenlos;2018;AG;SBB;1000;1200;590.0;;;;;47.4457594716,8.35766780632;http://lod.opentransportdata.swiss/didok/8503529
+WY;Wynigen;2018;BE;SBB;860;990;580.0;;;;;47.1051748314,7.6635068635;http://lod.opentransportdata.swiss/didok/8508006
+CHP;Yverdon-Champ Pittet;2018;VD;CFF;110;140;50.0;;;;;46.7821495937,6.66232011822;http://lod.opentransportdata.swiss/didok/8504144
+YV;Yverdon-les-Bains;2018;VD;CFF;16800;19800;10200.0;Ohne TRAVYS.;Sans TRAVYS.;Senza TRAVYS.;Without TRAVYS.;46.781545187,6.64094400151;http://lod.opentransportdata.swiss/didok/8504200
+YND;Yvonand;2018;VD;CFF;640;770;360.0;;;;;46.8008754892,6.74668733336;http://lod.opentransportdata.swiss/didok/8504130
+ZERM;Zermatt;2018;VS;MGB;4800;4500;5500.0;;;;;46.0244734001,7.74828106379;http://lod.opentransportdata.swiss/didok/8501689
+ZEZ;Zernez;2018;GR;RhB;850;870;810.0;;;;;46.6976700007,10.089940006;http://lod.opentransportdata.swiss/didok/8509262
+ZB;Ziegelbrücke;2018;SG;SBB;9400;10100;8000.0;;;;;47.1361559116,9.06005166998;http://lod.opentransportdata.swiss/didok/8503225
+ZIM;Zimeysa;2018;GE;CFF;1100;1600;100.0;;;;;46.2212395947,6.06598534857;http://lod.opentransportdata.swiss/didok/8501000
+ZIZ;Zizers;2018;GR;RhB;390;430;320.0;;;;;46.9348400002,9.55958999371;http://lod.opentransportdata.swiss/didok/8509054
+ZF;Zofingen;2018;AG;SBB;8900;10300;5700.0;;;;;47.2880525354,7.94311767398;http://lod.opentransportdata.swiss/didok/8502001
+ZK;Zollikon;2018;ZH;SBB;1200;1400;800.0;;;;;47.3373345965,8.56974062583;http://lod.opentransportdata.swiss/didok/8503100
+ZG;Zug;2018;ZG;SBB;39600;46500;24500.0;;;;;47.1737069777,8.51504934096;http://lod.opentransportdata.swiss/didok/8502204
+ZGCA;Zug Casino;2018;ZG;SBB;160;200;80.0;;;;;47.1623181252,8.51520272861;http://lod.opentransportdata.swiss/didok/8517527
+KMUE;Zug Chollermüli;2018;ZG;SBB;730;850;490.0;;;;;47.1802375778,8.48664570623;http://lod.opentransportdata.swiss/didok/8502230
+ZGFR;Zug Fridbach;2018;ZG;SBB;270;320;150.0;;;;;47.1565811378,8.51229178194;http://lod.opentransportdata.swiss/didok/8515994
+ZGO;Zug Oberwil;2018;ZG;SBB;240;290;150.0;;;;;47.1476836417,8.50994051687;http://lod.opentransportdata.swiss/didok/8502231
+ZGPP;Zug Postplatz;2018;ZG;SBB;150;180;80.0;;;;;47.1682756822,8.51693737657;http://lod.opentransportdata.swiss/didok/8502300
+ZGSE;Zug Schutzengel;2018;ZG;SBB;1300;1400;1000.0;;;;;47.1737249217,8.50724220932;http://lod.opentransportdata.swiss/didok/8516187
+ZUOZ;Zuoz;2018;GR;RhB;580;610;500.0;;;;;46.5999500017,9.96146000644;http://lod.opentransportdata.swiss/didok/8509258
+ZAF;Zürich Affoltern;2018;ZH;SBB;3800;4300;2800.0;;;;;47.4209089456,8.50858255772;http://lod.opentransportdata.swiss/didok/8503008
+ZAS;Zürich Altstetten;2018;ZH;SBB;37200;46500;16400.0;;;;;47.3914830731,8.48896264996;http://lod.opentransportdata.swiss/didok/8503001
+ZEN;Zürich Enge;2018;ZH;SBB;14900;18900;6100.0;;;;;47.364098818,8.53082057475;http://lod.opentransportdata.swiss/didok/8503010
+ZFH;Zürich Flughafen;2018;ZH;SBB;50500;52500;46100.0;;;;;47.4503856299,8.56240182048;http://lod.opentransportdata.swiss/didok/8503016
+ZHDB;Zürich Hardbrücke;2018;ZH;SBB;49800;59700;27800.0;;;;;47.3851978915,8.51712620147;http://lod.opentransportdata.swiss/didok/8503020
+ZUE;Zürich HB;2018;ZH;SBB;423600;471300;317500.0;Umfasst auch ZLOE, ZMUS und ZUSZ.;Y compris ZLOE, ZMUS et ZUSZ.;Comprende anche ZLOE, ZMUS e ZUSZ.;Includes ZLOE, ZMUS and ZUSZ, too.;47.3781766742,8.5402123491;http://lod.opentransportdata.swiss/didok/8503000
+ZOER;Zürich Oerlikon;2018;ZH;SBB;80000;94700;47400.0;;;;;47.4115300412,8.54413990999;http://lod.opentransportdata.swiss/didok/8503006
+ZSEB;Zürich Seebach;2018;ZH;SBB;1300;1500;1000.0;;;;;47.4187500471,8.54466021551;http://lod.opentransportdata.swiss/didok/8503007
+ZSTH;Zürich Stadelhofen;2018;ZH;SBB;70200;82800;42100.0;Ohne FB.;Sans FB.;Senza FB.;Without FB.;47.3666097667,8.54848908845;http://lod.opentransportdata.swiss/didok/8503003
+ZTB;Zürich Tiefenbrunnen;2018;ZH;SBB;4600;5200;3200.0;;;;;47.3501246826,8.56138984971;http://lod.opentransportdata.swiss/didok/8503004
+ZWIE;Zürich Wiedikon;2018;ZH;SBB;11600;13800;6500.0;;;;;47.3714772284,8.52348543973;http://lod.opentransportdata.swiss/didok/8503011
+ZWIP;Zürich Wipkingen;2018;ZH;SBB;2400;2700;1700.0;;;;;47.3930388688,8.52938237141;http://lod.opentransportdata.swiss/didok/8503015
+ZWOL;Zürich Wollishofen;2018;ZH;SBB;3400;3800;2600.0;;;;;47.3474402448,8.53360101346;http://lod.opentransportdata.swiss/didok/8503009
+ZWD;Zweidlen;2018;ZH;SBB;100;110;70.0;;;;;47.5704481598,8.46791893705;http://lod.opentransportdata.swiss/didok/8503405
+ZWG;Zwingen;2018;BL;SBB;2500;2900;1500.0;;;;;47.4337991873,7.53046303135;http://lod.opentransportdata.swiss/didok/8500114
