@@ -141,9 +141,6 @@ with tab_bhf:
     fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     st.plotly_chart(fig, use_container = True)
 
-#unused for now:
-AWK_locs = { "Zürich": [47.416109048074674, 8.553933383336904], "Bern": [46.94749533405075, 7.436754099592461], "Basel": [47.54836037511811, 7.589188599288886], "Lausanne": [46.51634822675881, 6.634604712129138] }
-AWK_stao = pd.DataFrame.from_dict(AWK_locs).transpose().rename(columns = {0: "y", 1: "x"})
 
 #get data from the parkandride
 with tab_bil:
