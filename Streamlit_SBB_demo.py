@@ -1,3 +1,4 @@
+from socketserver import DatagramRequestHandler
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -10,7 +11,7 @@ import plotly
 import plotly.express as px
 from shapely.geometry import Polygon
 import streamlit as st
-st.set_page_config(layout="wide")
+st.set_page_config(page_title = "SBB Prototyp", page_icon = "🚂", layout="wide")
 
 
 #gives the hexagon in which a lat long lies
@@ -86,14 +87,14 @@ def choropleth_map(df_aggreg, column_name = "value", border_color = 'white', fil
     return initial_map
 
 
-somethoughts = """Wir sehen wie in Urbanen Regionen wie Züich, Basel, Lausanne die Nutzung der Züge auf einem sehr hohen Niveau ist. 
-                In diesen Regionen ist das Mobilitätsangebot unterentwickelt, was aber Sinn macht,da die Mobiität gewährleistet ist. 
-                In sehr ruralen Gebieten ist die Mobilität im Vergleich zum Zugnetz auch Unterausgebaut, allerdings macht ein Ausbau in solchen gegenden (VS, OW, NW) finanziell Nur beschränkt Sinn.
-                Die 'Opportunity Zones' sind dementsprechend kelinere Städte und Suburbane Gebiete. Regionen wie die Nordostschweiz oder der Raum Bern sind hier Vorreiter.
-                Die Region Solothun zum Beispiel ist ein Positives Beispiel und die Region um Sursee ein Negatives"""
+somethoughts = """Wir sehen, wie in urbanen Regionen wie Zürich, Basel oder Lausanne die Nutzung der Züge auf einem sehr hohen Niveau ist. 
+                In diesen Regionen ist das Mobilitätsangebot unterentwickelt, was aber Sinn macht, da die Mobilität gewährleistet ist. 
+                In sehr ruralen Gebieten ist die Mobilität im Vergleich zum Zugnetz auch unterausgebaut, allerdings macht ein Ausbau in solchen Gegenden (VS, OW, NW) finanziell nur beschränkt Sinn.
+                Die 'Opportunity Zones' sind dementsprechend kleinere Städte und suburbane Gebiete. Regionen wie die Nordostschweiz oder der Raum Bern sind hier Vorreiter.
+                Die Region Solothurn zum Beispiel ist ein positives Beispiel und die Region um Sursee ein negatives"""
 
 
-st.title("Mini-Pototyp")
+st.title("Mini-Prototyp")
 
 tab_setup, tab_bhf, tab_pnr,  tab_bil, tab_scatter = st.tabs([ "Setup","Bahnhöfe", "Park'n'ride", "Vergleich mit Park'n'ride", "Scatterplot"])
 
@@ -101,14 +102,15 @@ tab_setup, tab_bhf, tab_pnr,  tab_bil, tab_scatter = st.tabs([ "Setup","Bahnhöf
 #set zoom
 with tab_setup:
     st.header("Setup")
-    st.write("Der Setup tab dient dazu den Path der Daten und die Grösse der Hexagone zu bestimmen")
-    path_base = st.text_input('Path der Daten', f"/Users/labor/Desktop/Private/")
+    st.write("Der Setup Tab dient dazu, den Path der Daten und die Grösse der Hexagone zu bestimmen.")
+    path_base = st.text_input('Path der Daten',r"C://Users//trach//Desktop//Prototype//")
     H3_res = st.radio("Grösse der Hexagone", [6,7,8])
+    colormap = st.radio("Select the colormap for the plots:", ["turbo", "magma", "blackbody_r", "reds", "greens"])
     
 with tab_bhf:
-    st.header("Visualisierung der Bahnhof-Nutzung")
+    st.header("Visualisierung der Bahnhofsnutzung")
     with st.expander("Mehr erfahren"): 
-        st.write("In diesem Tab wurden die Bahnhöfe gemäss SBB öffentlichen Daten geladen. Danach wurden die Geodaten tesseliert und in einer Karte, gemäss Ihrer Nutzung angezeigt.")
+        st.write("In diesem Tab wurden die Bahnhöfe gemäss SBB öffentlichen Daten der SBB geladen. Danach wurden die Geodaten tesselliert und gemäss ihrer Nutzung in einer Karte angezeigt.")
         st.caption(r"https://data.sbb.ch/pages/home20/")
     #load data of stations
     path = path_base+"passagierfrequenz.csv"
@@ -124,9 +126,11 @@ with tab_bhf:
     Data["DTV_log"] = Data["DTV_log"].divide(np.max(Data["DTV_log"]))
     #Data["DTV"] = Data["DTV"].divide(np.max(Data["DTV"]))
     Kantonlist = Data.Kanton.unique()
-    Kantone = st.multiselect("Kantone zu Untersuchen", Kantonlist, Kantonlist)
+    Kantone = st.multiselect("Kantone zu untersuchen", Kantonlist, Kantonlist)
     Data = Data[Data["Kanton"].isin(Kantone)]
-
+    if Kantone == []:
+        st.error('⚠️⚠️ Keine Kantone ausgewählt ⚠️⚠️ ')
+        st.stop()
     #add h3 hex info
     Data['h3_cell'] = Data.apply(geo_to_h3,axis=1)
     Data = Data.drop(index = Data[Data["h3_cell"]== "0"].index)
@@ -145,7 +149,7 @@ with tab_bhf:
                         locations='h3_cell', 
                         color=Data["DTV_log"],
                         hover_name = Data["Bahnhof_Haltestelle"],
-                        color_continuous_scale="geyser",
+                        color_continuous_scale=colormap,
                         range_color=(0,Data["DTV_log"].max()),                 
                         mapbox_style='carto-positron',
                         zoom=7,
@@ -153,7 +157,7 @@ with tab_bhf:
                         opacity=0.7,
                         labels={'count':'# of fire ignitions '}))
     fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-    st.subheader("Durchschnittliche Tägliche Nutzung von Bahnhöfen in der Schweiz")
+    st.subheader("Durchschnittliche tägliche Nutzung von Bahnhöfen in der Schweiz")
     st.plotly_chart(fig, use_container_width= True)
 
 #unused for now:
@@ -164,7 +168,7 @@ AWK_stao = pd.DataFrame.from_dict(AWK_locs).transpose().rename(columns = {0: "y"
 with tab_pnr:
     st.subheader("Visualisierung des Mobilitätsangebots")
     with st.expander("Mehr erfahren"): 
-        st.write("In diesem Tab wurden Daten über das Mobilitätsangebot geladen. Dies beinhalted die verfügbaren Park'n'ride Parkplätze sowie die Mietveloplätze. Die Daten wurden wieder tesseliert und in Form einer Karte angezeigt.")
+        st.write("In diesem Tab wurden Daten über das Mobilitätsangebot geladen, nämlich Daten über verfügbare Park'n'ride Parkplätze sowie die Mietveloplätze. Die Daten wurden wieder tesselliert und in der Form einer Karte angezeigt.")
         st.caption(r"https://data.sbb.ch/pages/home20/")
     mobilitatsart = st.radio("Welche Art von Mobilität soll untersucht werden", ["Park'n'ride", "Mietvelo", "Park'n'ride und Mietvelos"])
     path = path_base+"mobilitat.csv"
@@ -174,13 +178,13 @@ with tab_pnr:
     Data_serv.parkrail_anzahl=  Data_serv.parkrail_anzahl.fillna(0)
     Data_serv.mietvelo_anzahl= Data_serv.mietvelo_anzahl.fillna(0)
     Data_serv_useful = Data_serv[["parkrail_anzahl", "Abkuerzung Bahnhof", "Geoposition", "mietvelo_anzahl", "Name Haltestelle"]]
-    Data_serv_useful["Datashow"] = Data_serv_useful["parkrail_anzahl"]
+    Data_serv_useful["Park'n'ride"] = Data_serv_useful["parkrail_anzahl"]
     if mobilitatsart == "Mietvelo":
-        Data_serv_useful["Datashow"] = Data_serv_useful["mietvelo_anzahl"]
+        Data_serv_useful["Park'n'ride"] = Data_serv_useful["mietvelo_anzahl"]
     elif mobilitatsart == "park'n'ride":
-        Data_serv_useful["Datashow"] = Data_serv_useful["parkrail_anzahl"]
+        Data_serv_useful["Park'n'ride"] = Data_serv_useful["parkrail_anzahl"]
     elif mobilitatsart == "Park'n'ride und Mietvelos":
-        Data_serv_useful["Datashow"] = Data_serv_useful["parkrail_anzahl"] + Data_serv_useful["mietvelo_anzahl"]
+        Data_serv_useful["Park'n'ride"] = Data_serv_useful["parkrail_anzahl"] + Data_serv_useful["mietvelo_anzahl"]
     
     
     Geopos_3 = Data_serv_useful["Geoposition"].str.split(pat ="," ,expand=True)#
@@ -203,10 +207,10 @@ with tab_pnr:
                         Data_serv_useful, 
                         geojson=geojson_obj_bhf, 
                         locations='h3_cell', 
-                        color=Data_serv_useful["Datashow"],
+                        color=Data_serv_useful["Park'n'ride"],
                         hover_name = Data_serv_useful["Name Haltestelle"],
-                        color_continuous_scale="geyser",
-                        range_color=(0,Data_serv_useful["Datashow"].max()),                 
+                        color_continuous_scale=colormap,
+                        range_color=(0,Data_serv_useful["Park'n'ride"].max()),                 
                         mapbox_style='carto-positron',
                         zoom=7,
                         center = {"lat": 47.41609409868053, "lon": 8.553879741076177},
@@ -219,14 +223,14 @@ with tab_pnr:
 with tab_bil:
     st.subheader("Visualisierung des Mobilitätsangebots")
     with st.expander("Mehr erfahren"): 
-        st.write("Nun werden die zwei Vorherigen Tabs, stellvertretend für Angebot und Nachfrage zusammengenommen und so eine Art 'heatmap' des Mobiitätsangebotes im Verlgeich zur Auslastung der Züge erzeugt.")
+        st.write("Nun werden die zwei vorherigen Tabs, stellvertretend für Angebot und Nachfrage, zusammengenommen und so eine Art 'Heatmap' des Mobiitätsangebotes im Verlgeich zur Auslastung der Züge erzeugt.")
         st.caption(r"https://data.sbb.ch/pages/home20/")
     with st.form("Compute Map"):
         col_sup, col_dem = st.columns(2)
         with col_sup:
             st.subheader("Parmeter betreffend Zugsnutzung")
             stationradius  = st.radio("Einflussgebiet eines Bahnhofes für die Nutzung der Züge", [4,5,6,7,8])
-            Kantone = st.multiselect("Kantone zu Untersuchen", Kantonlist, Kantonlist)
+            Kantone = st.multiselect("Kantone zu untersuchen", Kantonlist, Kantonlist)
         with col_dem:
             st.subheader("Parmeter betreffend Mobilitätsangebot")
             mobradius = st.radio("Einflussgebiet eines Bahnhofes für die Nutzung der Mobilitätsangebote", [4,5,6,7,8])
@@ -236,6 +240,9 @@ with tab_bil:
     if submitted:
        
 
+        if Kantone == []:
+            st.error('⚠️⚠️ Keine Kantone ausgewählt ⚠️⚠️ ')
+            st.stop()
         max_rad = np.max([stationradius, mobradius])
         Data = Data[Data["Kanton"].isin(Kantone)]
 
@@ -255,9 +262,9 @@ with tab_bil:
                 for ring_hex in ring:
                     stationinfluence[ring_hex] += np.sqrt(stationdict[center_hex ])/((i+1))**2
 
-        Data_pg = Data_serv_useful[["h3_cell", "Datashow"]].groupby(by= "h3_cell").sum()
+        Data_pg = Data_serv_useful[["h3_cell", "Park'n'ride"]].groupby(by= "h3_cell").sum()
         parkdict = Data_pg.to_dict()
-        parkdict = parkdict["Datashow"]
+        parkdict = parkdict["Park'n'ride"]
         parkinfluence = {}
         for center_hex in parkdict:
             for i in range(0,max_rad):
@@ -277,6 +284,7 @@ with tab_bil:
         Totaldf = station_df.join(parking_df, how = "left" , lsuffix = "station_usage", rsuffix = "parking_usage").rename(columns = {"0station_usage": "station_usage", "0parking_usage": "parking_usage"}).fillna(0)
         Totaldf_norm = (Totaldf / Totaldf.mean()) -Totaldf.std()
         Totaldf_norm["Bilanz"] = Totaldf_norm["station_usage"]-Totaldf_norm["parking_usage"]
+        Totaldf_norm["Bilanz"] -= Totaldf_norm["Bilanz"].mean()
         Totaldf_norm = Totaldf_norm.reset_index(level= 0).rename(columns={"index": "h3_cell"})
         
         #same shenanigans as before to show map
@@ -295,7 +303,7 @@ with tab_bil:
                             locations='h3_cell', 
                             color=Totaldf_norm["Bilanz"],
                             hover_name = Totaldf_norm["Bilanz"],
-                            color_continuous_scale="geyser",
+                            color_continuous_scale=colormap,
                             range_color=(Totaldf_norm["Bilanz"].min(),Totaldf_norm["Bilanz"].max()),                 
                             mapbox_style='carto-positron',
                             zoom=7,
@@ -306,10 +314,10 @@ with tab_bil:
         fig_2.update_layout(
             title_text="Vergleich zwischen Passagierdaten und Mobilitätsangebot")
         st.subheader("Vergleich zwischen Passagierdaten und Mobilitätsangebot")
-        st.caption("Eine rote Färbung deutet darauf hin, dass die Region ein unterdurchnittlich ausgebautes Mobilitätsangebot hat, wähend eine Grüne das Gegenteil aussagt. ")
+        st.caption("Eine 'hohe' Bilanz deutet darauf hin, dass die Region ein unterdurchschnittlich ausgebautes Mobilitätsangebot hat, während die eine 'tiefe' Bilanz das Gegenteil aussagt. ")
         st.plotly_chart(fig_2, use_container_width = True)
         with st.expander("Einige Beobachtungen"):
-            st.write("Das Suburbane Tal")
+            st.write("Das suburbane Tal")
             st.caption(somethoughts)
             
     
@@ -321,11 +329,12 @@ with tab_scatter:
         st.write("Die Daten werden schliesslich noch in Form eines Scatter Plots dargestellt für eine Weiterentwicklung")
         st.caption(r"https://data.sbb.ch/pages/home20/")
     Data_station_scatter = Data[["code", "Kanton", "DTV"]]
+    
+    
     Data_parking_scatter = Data_serv_useful[["parkrail_anzahl"	,"Abkuerzung Bahnhof"]].rename(columns={"Abkuerzung Bahnhof": "code"})
 
     Data_scatterplot = Data_station_scatter.merge(Data_parking_scatter, how = "outer", on = "code", ).fillna(0)
-    fig_4 = px.scatter(Data_scatterplot, x = "DTV", y = "parkrail_anzahl", hover_data=["code"] , color="Kanton" ,  
-                    
+    fig_4 = px.scatter(Data_scatterplot, x = "DTV", y = "parkrail_anzahl", hover_data=["code"] , color="Kanton" ,         
                     )
     fig_4.update_layout(
         title_text="Scatter plot zwischen Zugs-Auslasung und Mobilitätsangebot")
