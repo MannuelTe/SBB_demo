@@ -7,12 +7,23 @@ import folium
 from geojson import Feature, Point, FeatureCollection
 import json
 import matplotlib
+import matplotlib.pyplot as plt
 import plotly
 import plotly.express as px
 from shapely.geometry import Polygon
 import streamlit as st
+import matplotlib.cm as cm
+from scipy.ndimage.filters import gaussian_filter
 st.set_page_config(page_title = "SBB Prototyp", page_icon = "🚂", layout="wide")
 
+
+
+def myplot(x, y, s, bins=1000):
+    heatmap, xedges, yedges = np.histogram2d(x, y, bins=bins)
+    heatmap = gaussian_filter(heatmap, sigma=s)
+
+    extent = [xedges[0], xedges[-1], yedges[0], yedges[-1]]
+    return heatmap.T, extent
 
 #gives the hexagon in which a lat long lies
 def geo_to_h3(row):
@@ -329,11 +340,14 @@ with tab_scatter:
         st.write("Die Daten werden schliesslich noch in Form eines Scatter Plots dargestellt für eine Weiterentwicklung")
         st.caption(r"https://data.sbb.ch/pages/home20/")
     Data_station_scatter = Data[["code", "Kanton", "DTV"]]
-    
+    includezeroes = st.checkbox("Remove stations with zeroes", value = False)
     
     Data_parking_scatter = Data_serv_useful[["parkrail_anzahl"	,"Abkuerzung Bahnhof"]].rename(columns={"Abkuerzung Bahnhof": "code"})
 
     Data_scatterplot = Data_station_scatter.merge(Data_parking_scatter, how = "outer", on = "code", ).fillna(0)
+    if includezeroes:
+        Data_scatterplot = Data_scatterplot[Data_scatterplot.Kanton != 0]
+        #remove all stations with zero usage or mobility
     fig_4 = px.scatter(Data_scatterplot, x = "DTV", y = "parkrail_anzahl", hover_data=["code"] , color="Kanton" ,         
                     )
     fig_4.update_layout(
