@@ -357,4 +357,9 @@ with tab_scatter:
         st.write("In einem ersten Schritt sollten Filter eingebaut werden im Stil von 'Bahnhöfe mit einer Nuztung zwischen ... und ... ' um sich auf Zielregionen zu fokussieren.")
         st.write("Danach sollte man mehr Daten hinzufügen (neben Nutzung noch Auslastungsdaten auf der Demand-side und eventuell private Angebote oder mehr Spalten der existierenden Datentabelle auf der Supply-Side).")
         st.write("In einem letzten Schritt kann die 'Landkarte' mit einer Bevölkerungsichte-Schicht normalisiert werden. ")
-    
+    with st.expander("Test-zone"):
+        Data_scatter_2 = Data_scatterplot.groupby("Kanton").mean()
+        Data_scatter_2 = Data_scatter_2.reset_index()
+        fig_5 = px.scatter(Data_scatter_2, x = "DTV", y = "parkrail_anzahl", color = "Kanton", )
+        #fig_5 = px.imshow(Data_scatter_2)
+        st.plotly_chart(fig_5, use_container_width = True)
